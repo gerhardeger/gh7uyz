@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prologus</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prologus</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="1-r"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e100">
+        <head xml:id="gh7uyz-d1e100-Hd1e120">Prologus</head>
+        <p xml:id="gh7uyz-d1e100-d1e122">
+          <pb ed="#P" n="1-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P"/>Ad eruditionem simplicium sacerdotum qualiter <sic>certa<!--circa--></sic> sacramentum 
+          sacratissimi corporis et sanguinis domini nostri yesu christi se debeant 
+          exercere quorumdam catholicorum doctorum
+          dicta contexens simul in unum ordinare curabo ut sciant quam sollicite et &lt;devote&gt;
+          sese preparent et quam sancte et iuste illa sacratissima misteria peragant aliisque discrete
+          ministrent et qualiter in eisdem misteriis importune petentes et perseveranter pulsantes
+          anxieque perquerant sacratissimum manna absconditum quod <quote xml:id="gh7uyz-d1e100-Qd1e130">nemo scit nisi qui
+            accipit</quote>
+          <!--&lt;Ap 2,17&gt; --> nemo accipit nisi qui secundum quod sacrosancta romana
+          ecclesia in qua sedes et auctoritas beati Petri apostoli collocatur de isto altissimo
+          sacramento credit tenet et docet et ipse similiter credit fideliter tenet firmiter et
+          veraciter confitetur nec non reverenter et caute meditatur sapienter et sane intelligit,
+          mundo corde et simplici oculo intuetur devoto affectu et saporoso gustu amplectitur et
+          tandem in crucifixum Christum interius per amorem et exterius totus per omnia cruciformia
+          transformetur.
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e135">
+          Igitur ad pleniorem evidentiam predictorum omnia hec dicenda distinguntur in septem
+          partes.
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e137">
+          In prima consideranda est aliqualiter conditio auctoris istud sacramentum instituentis. 
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e139">
+          In secunda consideranda est conditio ministri digne et utiliter celebrantis.
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e142">
+          In tertia consideranda est malitia pravi ministri sacramentum istud despicientis.
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e144">
+          <pc type="pilcrow">¶</pc> In quarta consideranda est admirabilis virtus in hoc sacramento supernaturaliter
+          operantis.
+          
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e150">
+          In quinta &lt;consideranda est utilitas&gt; maxima hanc sanctissimam eucaristiam digne
+          accipientis.
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e152">
+          In sexta consideranda est aliqua expositio verborum et actuum illud sacramentum
+          conficientis.
+        </p>
+        <p xml:id="gh7uyz-d1e100-d1e154">
+          In septima qualis debeat esse expositio cuiuslibet ad hanc sacramenti conditionem
+          accedentis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

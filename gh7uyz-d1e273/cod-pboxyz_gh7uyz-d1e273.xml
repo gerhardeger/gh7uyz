@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 2</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 2</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="2-r"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e273">
+        <head xml:id="gh7uyz-d1e273-Hd1e120">Pars 2</head>
+        <head xml:id="gh7uyz-d1e273-Hd1e122" type="question-title">De consideratione ministri digne celebrantis et utiliter</head>
+        <p xml:id="gh7uyz-d1e273-d1e125">Secunda pars est de consideratione ministri digne celebrantis et utiliter.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e127">
+          Ubi sciendum quod sicut Christus fuit totus sanctitas sic minister huius sacramenti debet
+          esse totus sanctificatus. Unde nullus potest esse minister huius sacramenti nisi per
+          episcopum tanquam per alium Christum qui tenet vicem Christi secundum formam ecclesie fuerit
+          ordinatus. Debet etiam sacerdos esse separatus a communi conversatione hominum quia Malachie
+          2o &lt;2,7 <quote xml:id="gh7uyz-d1e273-Qd1e129">&gt; angelus domini</quote> vocatur. Et debet etiam sacerdos esse insignitus
+          clericali tonsura in modum corone que ratione denudationis capitis significat claritatem
+          contemplationis et puritatem intentionis. Et quia capilli sunt quedam corporis superflua,
+          significant quod per rasuram ammoveri debet omnis amor superfluus et temporalia superflua
+          auferantur et sunt ibi corona quia regale est sacerdotium. 
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e132">
+          Non vestitur vestibus communibus quia singularem et celestem debet habere vitam. Et non
+          solum persona debet esse consecrata sed omnia que sunt circa istud sacramentum debent esse
+          consecrata et sancta ut ecclesia altare paramenta calix et corporale ut omnia modo
+          stupendo sacerdoti clament et ingerant 
+      <pb ed="#P" n="2-v"/>
+      <cb ed="#P" n="a"/>
+      <lb ed="#P" n="1"/>
+     sanctitatem. Non enim conceditur
+          quod istud sacramentum nisi super altare lapideum consecratum per episcopum consecretur.
+          Quia licet in suscipientibus desit sanctitas que signatur per consecrationem ecclesie,
+          numquam tamen deficit sanctitas in sacramento nec in corpore Christi que sanctitas per altare
+          signatur. Conceditur tamen in itinere positis si ecclesia defuerit sub divo vel temptorio,
+          missa celebrari si habeatur lapis consecratus et alia que requiruntur. Consecratus calix per
+          episcopum debet esse aureus vel argenteus vel de stangno et non de aliquo alio. Corporale
+          etiam benedicitur et vestes sacerdotis non quia res inanimate suscepture sint gratie sed
+          quia ex consecratione talium movetur mens humana quantum se debet consecrare et disponere per
+          gratiam.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e138">
+          Attende quod abhominabile est quod vestes mulierum sepe multiplici spurcitia maculate per
+          avaritiam sacris altaribus applicentur. Tanta est sanctitas ecclesie consecrate ut ligna et
+          lapides eius in humanum usum laycorum numquam debent assumi. Item palla altaris cathedra,
+          candelabrum et velum si fuerint vetustate consumata incendio dentur ne conculcentur.
+          Vidisne omnia quomodo circa hoc sacramentum intonant sanctitatem ? Nam corporale mundum palla
+          munda altare et vasa omnia sunt consecrata. Cogita ergo quam sancta et quam munda debet esse
+          anima sacramentum huiusmodi consecrantis. Vere impium et sacrilegum est sanctitatis
+          sacramentum sine reverentia accipere vel aliis ministrare cum omnia ut dictum est ipse enim
+          sacerdos – cum dicit  ‘hoc est corpus meum’ – in persona Christi loquitur cuius caritati
+          debet esse per omnia iunctus ut hic intendat saltem in generali quod Christus intendebat et
+          quia Christus fuit actu coniunctus omnibus que conficiunt et conficient et confecerunt istud
+          sacramentum. Ideo tam in confectione quam in sumptione debet sacerdos quantum deus donat,
+          seipsum sentire Christum conficientem et Christum sumentem. Et caritatem suam dilatet ad
+          omnes pro quibus se intendebat Christus offerre. 
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e140">
+          Ut autem hoc possit facere semper oportet haberi ante oculos cordis illud proverbium  Si
+          steteris sedere <quote xml:id="gh7uyz-d1e273-Qd1e142">ad mensam potentis diligenter attende que tibi apponuntur
+          </quote>&lt;Prov 23,1&gt; sciens quantum talia oportet te preparare. Mensa potentis est
+          sacrum altare Christi potentis istud sacramentum efficientis. Diligenter ergo attende que
+          tibi apponuntur quia non solum Christus apponitur sed qualiter scilicet quo caritatis
+          ardore quo passionis dolore quanta neccesitate quanta convenienti utilitate quanta dei
+          acceptione quanta sanguinis effusione quanta turpi et orribili morte ut et tu moriaris cum
+          illo et transeas a te ipso separatus totaliter ab omni carnali delectatione et vitio gule,
+          per perfecta austera et continua ieiunia ; separatus etiam ab omni fedatione et turpitudine,
+          cuiucumque cogitationis vel actus indecentis et luxuriosi et hoc per illibatissimam
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          castitatem ; separatus etiam ab omni alto sapere vel elatione et hoc
+          per veram sui recognitionem et profundam humilitatem ; separatus etiam ab omni hodio et
+          displicentia qualicumque et ab omni crudelitate et ab omni asperitate et hoc per fervidam
+          caritatem ad omnes et maxime in aliqua positos necessitate ; separatus etiam ab omni
+          negligentia et tepeditate et ab omni cura et sollicitudine huius seculi et hoc per sollicitam
+          vigiliam et orationem continuam debitam et devotam. Et hoc est preparare talia etsi non
+          equalia.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e149">
+          Predicta enim quinque ipse benedictus Yesus quando cantavit missam suam ab instanti sue
+          conceptionis usque ad ultimum vite sue habuit in summo. Primo enim fuit sicut manifeste
+          patet privatus omni corporali consolatione quia flevisse reperitur nec risisse. Fuit etiam
+          in continuo et summo ieiunio et in tanto cordis dolore quod nulla mens creata capere potest,
+          sicut supra aliqualiter monstratum fuit. Sic et sacerdos qui Christi personam induit debet
+          Christi mortificationem circumferre in corpore suo. Alia ratio huius est quia in isto
+          sacramento a digne accedentibus reperitur et degustatur ille panis filiorum ille sapor
+          celitus illud manna absconditum habens in se omne delectamentum et omnis saporis suavitatem.
+          Et ideo anima nunquam potest talia experiri nisi totaliter evacuata ab omni carnali
+          delectatione quia non potest quis ventrum servire et Christo placere. Et ideo gulosus
+          sacerdos vel ebriosus nunquam potest istud sacramentum celebrare sine magna contumelia
+          sacramenti.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e151">
+          Secundo fuit etiam summe puritatis et munditie utpote virgo et virginitatis tante filius et
+          rex et sponsus q<quote xml:id="gh7uyz-d1e273-Qd1e153">ui peccatum non fecit</quote> &lt;1Pe 2,22&gt; etc. In hoc autem
+          sacramento substantia panis convertitur in virgineam Christi carnem que tante est puritatis
+          et munditie quod omnes digne accedentes purgat et mundat et purificat in tantum ut similes
+          fiant angelis potentibus aspicere in celo vultum eius qui lucem habitat inaccessibilem.
+          Substantia etiam vini convertitur in illum virgineum sanguinem qui tante est puritatis quod
+          in eo lavati sumus a peccatis nostris et deo reconciliati ut ipsa beata Trinitas delectetur
+          ad nos venire et mansiones in nobis facere.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e156">
+          Attende ergo o sacerdos quali puritate et castitate opporteat te esse decorem,
+          contractatorem tante munditie que in isto sacramento consistit. Nempe corpore castissimum,
+          conversatione et actibus honestissimum cogitatione et corde mundissimum oportet esse ? Cum
+          enim divina sapientia non potest animam possidere sine singulari et mundissima observantia
+          castitatis et ea que in isto sacramento cernuntur non possint cerni nisi ab intellectu fide
+          purgato spe elevato et caritate deo coniuncto quomodo poterit nisi amator et extimator istius
+          thesauri castitatis tales oculos possidere cum solus corde mundis detur deum videre ? Et
+          ideo sacerdos conversatione vilis et oculis inhone/stus 
+          <pb ed="#P" n="3-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          et verbo et
+          opere turpis nunquam potest sine magna sacerdotis Christi contumelia celebrare.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e165">
+          Tertio fuit etiam Christus non solum mitis et humilis corde sed tante humiliationis
+          exterius utpote qui s<quote xml:id="gh7uyz-d1e273-Qd1e167">emetipsum exinanivit formam </quote>
+          <quote xml:id="gh7uyz-d1e273-Qd1e169">servi
+          </quote>
+          <quote xml:id="gh7uyz-d1e273-Qd1e171">accipiens</quote> &lt;Ph 2,7&gt; missus in similitudinem carnis peccati,
+          quod nulla sufficit creatura exprimere vel etiam cogitare. Considera si potes qualiter
+          ingressus est in mundum et vide humilitatem paupertatem et nuditatem et omnia parvitatem in
+          Christo clamantia. Considera qualiter fuerit conversatus in mundo et videbis eum despectum,
+          diffamatum et inhonoratum in omnibus. Considera etiam eius egressum de mundo. Respice si potes
+          cum quanta verecundia cum quanta deiectione derisione et cum quam turpi et abhominabili modo
+          moriendi defecerit. Tu ergo sacerdos qui personam Christi debes induere considera quod ille
+          erat filius dei cum pateretur non talis qualis reputabatur sed talis reputari passus est
+          propter electorum amorem. Tu ergo cum in veritate sis malus et ire filius et morte et
+          reprobatione dignus propter tua peccata talem et tantum oportet te cognoscere et extimare
+          qualis et quantus es et non plus et semper de te vilia sentire et omne cornu mentis et
+          altum sapere ad yma reducere et cum summo timore et tremore et humili corde ad tantum
+          sacramentum accedere quia Christi spiritus non nisi in talibus requiescit. Ergo sacerdos
+          superbus sive per falsam sui extimationem sive per aliorum despectionem sive per nimiam
+          presumptionem ad istud sacramentum acedere non presumat quia tales deus non solum non
+          exaudit sed despicit et eis resistit. 
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e175">
+          Quarto fuit etiam ipse redemptor et salvator Yesus nimia caritate repletus. Quia propter
+          nimiam caritatem suam qua dilexit nos deus <quote xml:id="gh7uyz-d1e273-Qd1e177">filium suum misit in similitudinem carnis
+            peccati</quote> &lt;Rm 8,3&gt;. Cogita ergo si potes quanto amore dilexit mundum qui filium
+          suum dedit et quam inextimabilis fuerit illa dilectio caritatis qua ut servum redimeret,
+          filium tradidit. Et si aliquam talem velles cernere recogita que dicta sunt superius de eius
+          amore. Tu ergo sacerdos qui Christi caritati debes esse coniunctus transformare per
+          caritatem in eum quia aliter non poteris eius personam induere nisi simili caritate
+          vestiaris etsi non tanta ; intuere animam illam dilecti Yesu ampliato sinu totam ecclesiam
+          electorum infra sua intima trahicere amplexari et amorosissime stringere et ut filius amatus,
+          patrem dulciter appellare et fortissime deprecari ut illorum ac si sua essent remicti
+          peccata paratus ipse suo patri pro eis de tota sua iniuria plenissime satisfacere. 
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e180">
+          Respice etiam si potes illam animam omni amore et reverentia dignam dilatato sinu et
+          preparato affectu ad fovendum sicut viscerosissima mater omnes filios suos et electos in omnia
+          sua tribulatione 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          et in omni sua neccesitate et in omni sua debita
+          petitione. Vide illam peccatoribus gratis donare iustitiam et impiis pietatem debilibus
+          fortitudinem et omnia dampna et perdita restaurare et tandem miseros suis propriis meritis
+          beatificare.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e187">
+          Ex anima ergo o sacerdos et tu te ipsum et munda animam tuam non solum ab omni hodio et
+          livore vindicte sed a qualicumque vel modica displicentia quia Christus in hoc sacramento
+          inimicis et morte dignis ex infinito amore donat plene semetipsum. Et tu similiter dona cor
+          tuum ad totam ecclesiam electorum presentium et futurorum et pro peccatis et offensis eorum
+          amarissime plora sicut mater pro dampno unici filii sui. Et pro impetranda eis venia
+          affectuosissime ora eorum redemptorem Christum qui eos tam affectuosissime amavit. Et ideo
+          attendo quod in tota missa semper loquatur in persona hominis qui est capud et in persona
+          omnium electorum qui sunt membra. Unde Christus capud et omnes alii et tu secum membra
+          coniuncti in uno corpore ora patrem in omnibus verbis que tu prenuntias in persona eius. Ipse
+          enim qui est capud et sacerdos noster et deus et in quantum capud orat in nobis et nos in eo,
+          quia unus spiritus effecti sumus secum.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e189">
+          Cave ergo quando oras ne separes capud a te quia pater disposuit nunquam audire nisi capiti
+          sit coniunctus. Cum ergo sic oramus orat ipse in nobis in quantum est capud et orat pro
+          nobis in quantum est sacerdos et oratur a nobis in quantum est deus. Si ergo idem est qui
+          orat et qui oratur ubi queso deerit exaudituro ? Dilata ergo o sacerdos caritatem ad omnia
+          membra tua et aperi pectus pietatis ad omnes afflictos consolandos ignorantes docendos,
+          debiles confortandos et in corporali neccesitate positos ut sollicitissima mater,
+          viscerosissime adiuvandos.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e191">
+          Quinto etiam fuit Yesus ille magnus orator qui ab instanti sue conceptionis usque ad finem
+          vite non cessavit orare. Nam sua oratio fuit solum una continuata quam nunquam aliquando vel
+          modicum istans aliquando intermisit. Et licet in exterioribus actibus aliquando visus est
+          orare fecit ipse benedictus Yesus hoc sepe et sepius pernoctando ad filiorum eruditionem. Et
+          licet aliquando cessare videretur solum exterior actus interrumpebatur aliquando qui non est
+          de principali substantia orationis. Interior autem actus nunquam vel ad modicum interruptus
+          est. Unde illa sanctissima anima ab instanti sue conceptionis et creationis semper fuit
+          presens vultui dei ad interpellandum pro nobis gemitibus inenarrabilibus. Et hoc fuit
+          necessarium ostendere electis aliquando ut amati saltem vel modicum cernerent de amante. Et
+          hoc maxime fuit circa finem et in cruce. Unde ipse redemptor sanctissimus satisfaciendo pro
+          nobis cum summo fletu et <quote xml:id="gh7uyz-d1e273-Qd1e193">clamore valido</quote> &lt;Heb 5&gt; sicut dicit apostolus,
+          preces offerens exauditus est pro sua reverentia. 
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e196">
+          Averte sacerdos cum quanta contritione cordis et penitudine et verecundia oportet de peccatis
+          tuis plangere et orare quando ille pro alienis tanto dolore et amore in sua oratione patrem
+          ad misericordiam inclinavit et illius oratio fuit continua Co<pb ed="#P" n="3-v"/><cb ed="#P" n="a"/><lb ed="#P" break="no"/>gita
+          quam sepe tua oratio debeat replicari iuxta preceptum quia oportet semper orare et nunquam
+          deficere. Ubi attende quod si exterior actus aliquando ex aliquibus necessariis et utilibus
+          intermictatur interior tamen affectus et desiderium non tepescat. Si enim continuum sit
+          desiderium continua erit oratio.
+        </p>
+        <p xml:id="gh7uyz-d1e273-d1e206">
+          Extende etiam tuam orationem non solum ad domesticos fidei ut dictum est sed etiam ad
+          inimicos quoscumque et maxime hereticos et paganos quia de omnibus assumet piisimus Yesus ad
+          perficiendum sacrum numerum et predestinatum electorum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

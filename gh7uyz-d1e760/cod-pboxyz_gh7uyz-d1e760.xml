@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 7</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 7</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11-r"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e760">
+        <head xml:id="gh7uyz-d1e760-Hd1e120">Pars 7</head>
+        <head xml:id="gh7uyz-d1e760-Hd1e122" type="question-title">Qualis debet esse preparatio cuiuslibet ad istam eucaristiam
+          accedentis</head>
+        <p xml:id="gh7uyz-d1e760-d1e125">Septima pars est qualis debet esse preparatio cuiuslibet ad istam eucaristiam accedentis.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e127">
+          Circa quam actendenda sunt tria. Primum exprimit necessitatem et causam communicandi,
+          secundum possibilitatem et sapientem modum a deo datum communicandi tertium debitam
+          preparationem ad eam.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e129">
+          Quantum ad primum adverte quod Christus non tantum instituit sacramentum quo nos in esse
+          gratie generaret ut est baptismus et genitos augmentaret et roboraret ut est confirmatio,
+          verum etiam quo genitos et augmentatos nutriret ut est eucaristia. Et quia nutrimentum
+          nostrum quantum ad esse gratuitum attenditur in unoquoque per conservationem devotionis ad
+          deum dilectionis ad proximum et delectationis ad se ipsum et devotio ad deum exercetur per
+          sacrificii oblationem dilectio ad proximum per unitivi sacramenti communionem et delectatio
+          infra se ipsum per viatici refectionem ideo eucaristia datur in sacramentum oblationis et
+          sacramentum communionis et viatici refectionis. Vides ergo quod necessarium est illud sine quo
+          non vivimus. 
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e132">
+          Quantum ad secundum adverte quod sapienter ordinavit 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          istam
+          communionem ut possibilem nobis quia disposuit sapientissimus artifex istud sacramentum et
+          viaticum exibere secundum quod competit tempori et gratie revelate et statui vie et
+          capacitati nostre. Primum ergo tempus gratie revelate requirit quod non iam offeratur
+          qualiscumque oblatio sed pura et placida et plenaria et nulla alia est talis ut Christi
+          corpus et sanguis in cruce oblatus. Hinc est quod necessario oportet in sacramento non tantum
+          figurative Christi corpus contineri verum etiam naturaliter et veraciter tanquam oblationem
+          huic tempori debitam. Similiter ipsi gratie consonat quod sacramentum communionis et
+          dilectionis non tantum sit communionem et dilectionem signans verum etiam ad illam
+          inflammans ut efficiat quod figurat et maxime nos inflammat ad dilectionem unitivam et unit
+          maxime membra. Est etiam unitiva a qua per viam amoris diffusivam unitivam et
+          transformativam manat in nos dilectio unitiva. Hinc est quod in sacramento continetur verum
+          corpus Christi ut se nobis diffundens et nos invicem uniens et in se transformans per
+          ardentissimam dilectionem per quam se nobis dedit se pro nobis obtulit se pro nobis tradidit
+          et nobiscum existit usque in finem mundi. 
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e139">
+          Rursum quia statui vie non competit Christum aperte videre propter velamen enigmatis et
+          propter meritum fidei nec competit Christi carnem dentibus attrectare propter orrorem
+          crudelitatis et immortalitatis ipsius corporis ideo necesse fuit corpus et sanguinem Christi
+          tradi velatum signis et similitudinis congruis et expressis. Et quoniam nichil magis ydoneum
+          ad refectionem quam panis et vinum nichil magis ydoneum ad figurationem unitatis corporis
+          Christi veri et mistici quam panis factus de mundissimis generibus frumenti et vinum exprexum
+          de purissimis acinis in vinum collectis ideo sub hiis speciebus magis quam aliis debuit
+          sacramentum istud exiberi. Postremo quia capacitas nostra ad Christum efficaciter suscipiendum
+          non est a carne sed a spiritu non est a ventre sed a fide et mens Christum non attingit nisi
+          per cognitionem et amorem per fidem et caritatem ita quod fides illuminat ad cognitionem et
+          caritas inflammat ad devotionem ideo ad hoc ut aliquis digne accipiat oportet quod
+          spiritualiter commendat ut sic per recordationem fidei masticet et per devotionem amoris
+          suscipiat per quam non in se transformet Christum sed potius ipse transformetur in eius
+          misticum corpus propter quod manifeste colligitur quod qui tepide indevote et inconsiderate
+          accesserit iudicium sibi manducat et bibit quia tanto sacramento contumeliam facit.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e141">
+          Quantum ad tertiam partem attende quod scribitur Exodi 12o quod in sumptione debet
+          spiritualiter observari scilicet tempus quod erat mensis primus
+          <pb ed="#P" n="11-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          dies decima luna quartadecima hora vespertina &lt;Ex 12,2-3,6&gt;. Mensis primus indicat
+          perfectam reformationem penitentie dies decima perfectam observationem legis luna
+          quartadecima perfectam observantiam virtutum hora vespertina propositum nunquam peccandi
+          mortaliter.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e146">
+          Ponitur etiam ibi ritus scilicet quod non sumantur crudum vel lixum sed totum assum et
+          intinctum. Crudum sumit qui non cogitat quod sumit nec discutit conscientiam. Lixum sumit qui
+          mente distracta et humida terreno affectu et insipida. Assum sumit dilectio intinctum
+          lacrime. Est etiam ibi cultus manducantis scilicet quod debet esse calciatus quia in
+          observantia discipline accinctus per castitatem baculum tenere in manibus per tollerantiam
+          temptationis debet etiam lactucas agrestas commedere per meditationem passionis Christi.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e148">
+          Si vis ergo ad mensam agni accedere digne oportet te conculcare concupiscentiam conservare
+          disciplinam et continentiam et agrestem memoriam passionis Christi gustare. Et ideo istam
+          debet precedere medicinam dieta ut commendas panem lacrimarum cum prophetia ex recordatione
+          criminis panem ordeaceum ex mortificatione carnis cum Elia succinctorium panem ordaceum ex
+          recordatione factorum cum turba evangelica panem ordaceum ex mortificatione carnis. In qua
+          dieta administrat sibi vinum propheta in contritione compunctionis Assuerus vero vinum
+          consolationis in remissionem offensionis. Sed ne dieta nimis gravet infirmum puer evangelicus
+          duos pisces administrat quorum unus est letitia de evasione tormentorum alter vero fiducia
+          de adeptione premiorum.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e150">
+          Sic igitur decenter accedat ad mensam agni ubi ponitur panis celicus origine angelicus
+          dulcedine vinificus beatitudine. &lt;vac.&gt; Affert Gedeon hedum lixatum aqua contritionis,
+          Moyses agnum assatum igne dilectionis pater familias vitulum saginatum adipe devotionis
+          Sampson mellis favum dulcedine contemplationis sponsa vinum conditum aromatibus gustatione
+          inebriationis. Et ipsa eadem preparat lectum pacificum quam quadraginta fortes ambiunt quiete
+          soporationis. Tunc dicit anima  <quote xml:id="gh7uyz-d1e760-Qd1e152">bonum est nos hic esse </quote>&lt;Mt 17,4&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e156">
+          Nemo cum expositionem istam audierit extimet hoc offertum sufficienter expositum ne forte
+          cum opus humanum extulerit divinum extenuet sacramentum. In hoc enim sacramento tot et tanta
+          involuta sunt misteria ut nemo nisi preventione doctus ea sufficiat explicare. Quis enim
+          novit ordinem celi et ponit rationem eius in terra ? &lt;Cf Job 38,33&gt;
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e158">
+          Ego quippe non prevalens sed confidens non in meis dictis sed in eorum doctrina quorum
+          dicta hic contexere me promisi illa solum que sancta ecclesia romana credit tenet et docet.
+          Si autem quod absit in aliquo vel modicum contrarium contigisset penitus contra meum
+          propositum fuit quia ego omnino salva fide sacrosancte 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          romane
+          ecclesie scripsi et absque preiudicio sententie melioris. Quocirca non solum benignum imploro
+          lectorem verum etiam librorum desidero correctorem. Illos autem qui in hoc opusculo domino
+          inspirante suam utilitatem invenerint humili prece exoro ut pro peccatis meis Christi Yesu
+          miseriam deprecentur cui cum patre et spiritu sancto est omnis honor et gloria in secula
+          seculorum. Amen.
+        </p>
+        <p xml:id="gh7uyz-d1e760-d1e165">
+          Explicit hic tractatus de missa editus a sancto P. I. sancte matris ecclesie eximio doctore.
+          Deo gratias amen.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

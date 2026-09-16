@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 4 De consideratione admirabilis virtutis in hoc sacramento
+          supernaturaliter operantis</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 4 De consideratione admirabilis virtutis in hoc sacramento
+            supernaturaliter operantis</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="3-v"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e397">
+        <head xml:id="gh7uyz-d1e397-Hd1e120">Pars 4</head>
+        <head xml:id="gh7uyz-d1e397-Hd1e122" type="question-tite">De consideratione admirabilis virtutis in hoc sacramento
+          supernaturaliter operantis</head>
+        <p xml:id="gh7uyz-d1e397-d1e125">Quarta pars de consideratione admirabilis virtutis in hoc sacramento supernaturaliter
+          operantis.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e127">
+          Circa quam consideranda sunt septem. Primum de consideratione forme ubi considerandum est
+          quod in hoc sacramento 
+      <cb ed="#P" n="b"/>
+      <lb ed="#P" n="1"/>
+     concurrunt simul virtus verbi incarnati et
+          increati huius ut proferentis illius ut assistentis huius invocantis illius operantis.
+          Unde Christus ex humanitate promeruit ex divinitate perfecit. Ex humanitate formam protulit,
+          ex divinate conversionem plenam fecit ; concurrentur etiam successiva prolatio et instantanea
+          immutatio. Cum talis oratio forme sit enuntiativa et operativa et inde successiva est
+          annuntiatio et instantanea operatio. Quia virtus infinita dei sine tempore
+          transubstantiationem panis et vini fecit in instanti in verum corpus et sanguinem Christi per
+          prolationem forme sacramenti que successive profertur per os ministri cum intentione animi.
+          Unde finis dicti per opus dei est complementum facti.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e132">
+          Secundum est de modo conversionis. Unde averte quod ad prolationem forme in qua insinuatur
+          existentia Christi remanentibus solis accidentibus tanquam signis ipsius corporis contentis
+          et etiam expressivis quia vero corpus Christi beatum et gloriosum non potest dividi in partes
+          suas nec separari ab anima nec a divinitate summa ideo sub utraque specie est unus Christus
+          totus et indivisus scilicet corpus et sanguis et anima et divinitas. Ac per hoc utrobique
+          est unum simplicissimum sacramentum continens totum Christum.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e135">
+          Et ut expressius hoc advertas nota quod sub speciebus panis post prolatione verborum est
+          caro per conversionem quia sola substantia panis convertitur in Christi carnem ita quod non
+          in sanguinem nec in animam nec divinitatem. Et est etiam ibi sanguis per concomitantiam quia
+          cum sit corpus unum et integrum ubicumque fuerit caro secum simul sanguis concomitatur. Et
+          est etiam ibi anima per unionem quia cum Christus perfectus homo sit ex anima rationali et
+          humana carne et omnino indivisus ideo semper est ibi anima ipsi corpori unita et illud
+          vivificans. Licet enim in cruce anima a corpore per mortem fuerit separata in resurrectione
+          tamen fuerit reunita numquam ulterius separanda quia <quote xml:id="gh7uyz-d1e397-Qd1e137">mors illi ultra non dominabitur
+          </quote>&lt;Rm 6,9&gt;. Et etiam est ibi persona filii dei per ipsius humane nature
+          assumptionem quia ipsa persona filii dei assumpsit totam humanam naturam sibi in unitate
+          persone tam perfecte quod vere dicit possit de mostrato Christo  iste homo est deus et iste
+          deus est homo. Et est etiam ibi tota simul trinitas per idemptitatem essentie vel nature,
+          licet enim pater et spiritus sanctus non assumpserint humanitatem sed sola persona filii. Cum
+          tamen in ipsa trinitate personarum essentia et natura sit omnino una et simplicissima et
+          indivisibilis et ideo tota natura humana fuit coniuncta toti nature divine non tamen tota
+          natura divina assumpsit naturam humanam sed solum suppositum filii. 
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e140">
+          Nota ergo quod sub speciebus vini post prolationem verborum est sanguis Christi per
+          conversionem caro per concomitantiam anima per unionem persona filii per ipsius humane
+          nature assumptionem et tota simul trinitas per essentie vel nature idemptitatem que omnia
+          expone sicut supra dictum est. 
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e142">
+          <pb ed="#P" n="4-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          Vides ergo utrobique est totus Christus vivus et integer et indivisus scilicet totum corpus,
+          anima et divinitas ut dictum est ita quod in uno solo est differentia quia sub speciebus
+          panis est per conversionem substantie panis in sua carne sub speciebus vero vini per
+          conversionem substantie vini in suum sanguinem. 
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e151">
+          Nota etiam quod in predicta conversione nichil substantie panis et vini relinquitur sed totum
+          convertitur nichil substernitur nichil denuo efficitur nichil ibi generatur nichil
+          augmentatur nichil minuitur nichil alienatur vel localiter mutatur sed solum transit
+          aliquid in alio et tamen sine annichilatione. Non est annichilata substantia panis et vini set
+          vere in corpus Christi et sacramentum conversa. Non efficitur corpus Christi de novo quod
+          prius erat sed de novo ibi est per conversionem in ipsum quod ibi prius non erat nichilque,
+          ut dictum est ibi substernitur quia transit totum in totum nullum habens commune
+          subiectum.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e153">
+          Tertium est de modo existendi corporis Christi sub illis speciebus ubi attende quod Christus
+          est ibi sacramentaliter et cum dico quod est ibi sacramentaliter dico ipsum ibi esse vere.
+          Non enim verius est in celo quam ibi. Unde cum dico sacramentaliter non diminuit veritatem
+          existentie sed dico novum modum essendi quo ibi est. Non per modum corporis contenti
+          mensurative et figurative speciebus sed ibi est eo modo quod ipse solus novit et quem per
+          deiformitatem glorie comprehensoribus manifestat. Unde ibi corpus Christi non circumscribitur
+          superficie non contiguatur non figuratur non cohestenditur non mensuratur non
+          condividitur non connumeratur. Ille enim species sine subiecto super naturam subsistunt sub
+          quibus sacramentaliter continetur Christus in se dimensuratus a speciebus non dimensive
+          contractus ; in se mensuratus non mensurative contentus ; signatus quia sic in altare
+          consecratus quod non est in alio loco ubi non consecratus et tamen non diffinitive quia sic
+          est ibi quod tamen eodem modo alio loco potest esse. Est ibi positionem habens in se non
+          tamen positive sub speciebus. Est enim totus in tota specie visibili totus in qualibet parte
+          signabili totus in qualibet parte partibili. 
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e155">
+          Quarto est de modo operandi illarum accidentium. Nam sine subiecto agunt immutant prebent
+          alimentum franguntur alterantur localiter subsistunt quia qualitas illarum specierum
+          sensibilium terminat visum alterat gustum excitat odoratum immutat tactum. Unde ipsa
+          accidentia per divinam virtutem accipiunt talem modum essendi et operandi quod ex illis
+          accidentibus et circa illa accidentia possunt omnia fieri que primo poterant quando ibi erat
+          substantia panis et vini. Unde possunt auferre famem et sitim et etiam dare nutrimentum et
+          alias utilitates quas prius poterant in subiecto dare. Et licet multi multa dicant circa illa
+          que generantur ex illis speciebus sicut quod substantia panis redit quod non credunt aliqui
+          magni ymo putant 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          quod sit hereticum quod illa substantia eadem que
+          conversa est in corpus redeat ut sit materia vermis vel cibus muris vel etiam quod de novo
+          creetur materia sub illis speciebus ex qua fit talis generatio licet hoc possit sustineri.
+          Videtur tamen predictis honorabilius divino operi ut dicatur quod nullum aliud miraculum de
+          novo ibi sit nisi illa que in transubstantiationem fiunt ut tunc per illud miraculum quod
+          habet in se rationem multorum miraculorum detur tale esse accidentibus et talis virtus,
+          assistente tamen semper divina potentia ut ex illis possit fieri quicquid poterat ante
+          conversionem de toto composito et subiecto et accidente. 
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e163">
+          Quinto est de duratione corporis Christi sub illis speciebus. Ubi nota quod nichil deperiit
+          veritati sacramenti dum nec dicatur quod substantia panis et vini sit conversa in verum
+          corpus Christi et sanguinem et quod tamdiu accidentia durant et durantibus illis
+          accidentibus tam diu existit verum corpus Christi quam diu non est facta talis mutatio ex
+          qua sequeretur corruptio panis et vini vel variatio signati individui. Hoc dico quia
+          individuum signatum per pronomen ‘hoc’ converti demonstratur. Et ideo quando desineret esse
+          hoc sicut vinum per misturam alterius liquoris sive eiusdem ita quod variaret totam
+          superficiem quod non esset postea hec superficies sed alia de novo facta ex mixtura tunc
+          desineret ibi esse sanguis. Et nullo modo vino consecrato debet aqua misceri dato quod prius
+          non fuisset apposita. Quia appositio aque non est de necessitate sine aqua substantia vini
+          convertitur in sanguinem Christi sed aqua omnino debet apponi propter significationem ; et si
+          dimictatur punitur negligentia.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e165">
+          Sexto est de modo essendi corporis Christi sub illis speciebus impassibiliter. Ubi attende
+          quod corpus Christi in sacramento non comparatur ad proprias demensiones et species
+          sacramentales seu ad corporalia que circumstant. Ideo ad talem modum existendi non dicitur
+          proprie agere et pati. Posuit enim se benedictus Yesus modo impassibili licet posuerit se
+          passibilem sicut in cena passibilis erat. Et ideo illa que notant passionem ab extrinseco
+          inferri in actu non conceduntur sicut non conceditur quod corpus Christi ibi capiatur,
+          ligetur percutiatur et consimilia. Illa vero que important actiones vel passiones ut factas
+          intra corpus Christi conceduntur quia vera sunt. Unde si fuisset conservatum corpus Christi
+          in Parasceve vere potuisset dici quod ibi fuisset corpus Christum captum ligatum percussum,
+          vulneratum et mortuum. Vere potuisset dici quod ibi moriebatur quia mors est per divisionem
+          principiorum. Et breviter omnia que fiunt in Christi corpore ubicumque est localiter vere
+          sunt in eo sub sacramento quia Christus et idem corpus eius est utrobique licet non sibi
+          fiant prout est ibi quia actio et passio prout in corporibus est ratione tactus non est
+          autem sub sacramento tangibilis nisi mediantibus speciebus.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e167">
+          Septimo est de modo 
+          <pb ed="#P" n="4-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          distinguendi sacramentum ab ipsa re sacramenti.
+          Ubi considera quod <quote xml:id="gh7uyz-d1e397-Qd1e175"> tria sunt in hoc sacramento videlicet forma visibilis veritas
+            corporis virtus spiritualis  forma panis et vini veritas corporis et sanguinis virtus
+            unitatis et caritatis. Primo oculo cernitur secundo animo creditur tertio corde
+            percipitur. Primum est sacramentum et non res secundum est sacramentum et res tertium est
+            res et non sacramentum. Primum est sacramentum genimine rei tertium vero est res genimini
+            sacramenti medium est sacramentum unius et res alterius. Nam forma panis utramque Christi
+            carnem significat scilicet veram et misticam sed veram carnem continet et significat,
+            misticam vero significat sed non continet. Sicut enim unus panis ex multis granis
+            conficitur et vinum unum ex diversis acinis confluit sic corpus Christi ex multis membris
+            componitur. Substantia etiam corporea et Christi sanguis est sacramentum et res sed
+            alterius sacramenti res et alterius rei sacramentum. Est enim res primi quia significatur et
+            continetur a primo videlicet a forma visibili. Est et sacramentum tertii quia significat et
+            efficit tertium scilicet unitatem ecclesiasticam </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e178">
+          Et averte quod sacramenta sunt rei sacre signa. <quote xml:id="gh7uyz-d1e397-Qd1e180"> Set signorum rei sacre alia sunt
+            sacra ut baptismus alia non ut agnus pascalis. Sacra sunt signa novi testamenti non sacra
+            veteris testamenti. Quamvis enim utraque sint signa rei sacre idest rem sacram
+            significantia non tamen utraque sunt sacra signa idest iustificantia </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e397-d1e183">
+          <quote xml:id="gh7uyz-d1e397-Qd1e185"> Hec enim est differentia inter legalia et evangelica sacramenta quia illa
+            significabant sed non iustificabant hec autem significant et iustificant. Verum quandoque
+            large quandoque stricte sacramentum accipitur. Large secundum quod signum rei sacre sive
+            sit sacrum sive non sacramentum dicitur unde signa legalia sacramenta dicuntur ; stricte
+            secundum quod sacrum signum solummodo dicitur sacramentum. Sacramentum autem active dicitur
+            et passive quasi sacrum signum vel sacrum signatum. Nam nomine sacramenti quandoque signum
+            rei quando res signi varie nuncupatur. &lt;Secundum quod sacramentum accipiatur pro signo
+            rei sacramentum dicitur a sacro et signo quasi sacrum signum &gt;. Secundum quod
+            sacramentum accipiatur pro re signi sacramentum dicitur a sacro et secreto quasi sacrum
+            secretum. Species ergo panis dicitur sacramentum active idest sacrum signans unitas autem
+            ecclesiastica dicitur sacramentum passive idest sacrum signatum. Corpus vero dominicum
+            utroque modo idest sacrum signans et sacrum signatum </quote>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

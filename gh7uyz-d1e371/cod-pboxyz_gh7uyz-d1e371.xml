@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 3 De pravitate ministri istud sacramentum despicientis</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 3 De pravitate ministri istud sacramentum despicientis</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="3-v"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e371">
+        <head xml:id="gh7uyz-d1e371-Hd1e120">Pars 3</head>
+        <head xml:id="gh7uyz-d1e371-Hd1e122" type="question-tite">De pravitate ministri istud sacramentum despicientis</head>
+        <p xml:id="gh7uyz-d1e371-d1e125">Tertia pars de pravitate ministri istud sacramentum despicientis.
+        </p>
+        <p xml:id="gh7uyz-d1e371-d1e127">
+          Circa quam nota cum istud sit utile inserere ad cautelam bonorum qui habent conscientias
+          timoratas quamvis possit satis patere ex predictis. Attende magnam ingratitudinem ad Christum
+          Yesum qui tanta caritate hoc condidit sacramentum quod in hoc sacramento tam contumeliose
+          tractetur. Non enim debet sacerdos accedere ficte aut pro humana verecundia vel carnali
+          complacentia. Nec debet accedere temptative nec symoniace vendere quia talis accipit ad
+          iudicium et irreverenter dei communionem unde reus tunc erit corporis et sanguinis domini,
+          verbi gratia ac si deum occideret. Punietur et certe iuste quia impium sacrilegium est
+          circa celebrationem huius sacramentum attendere pecunie questum vel quodcumque comodum
+          temporale quod ex hoc liquido patere potest quia dico quod sacerdos debet coniungi Christi
+          caritati qui sicut patet solam intendebat electorum salutem. 
+        </p>
+        <p xml:id="gh7uyz-d1e371-d1e129">
+          Ve illis impiis sacerdotibus qui a caritate Christi disiuncti et cupiditati iude coniuncti,
+          de sacramento dominici corporis tanto plus illo proditore negotiantur in celestibus quanto
+          scilicet pro minori pretio scilicet trex vel quatuor denariis negotiantur impie de Christo
+          regnante in celis quam ille qui pro .xxx. argenteis vendidit peregrinum in terris. Et etiam
+          sceleratius illo vendit quia ille non credebat deum quem vendidit sed tantum hominem iustum.
+          Unde ipse dixit  <quote xml:id="gh7uyz-d1e371-Qd1e131">peccavi tradens sanguinem iustum</quote> &lt;Mt 27,4&gt; isti vero
+          impii velint nolint sciunt esse deum quem vendunt quia iam morte devicta subiugavit sibi
+          terminos orbis terre. Nec causentur hii scelerati quod ille vendidit Christum ad mortem quia
+          sceleratius isti Christum dentibus in sepulcrum spurcitie ventris sibi et anime sue scelerate
+          trahiciunt et includunt quod multum Christo est orribilius sepulcrum quam illud sepulcrum
+          novum Ioseph iusti quod <quote xml:id="gh7uyz-d1e371-Qd1e133">sindone</quote>
+          <quote xml:id="gh7uyz-d1e371-Qd1e135"> munda</quote> &lt;Mt 27,59&gt; conditum
+          aromatibus claudebatur quod etiam &lt;memorat&gt; apostolus noster ad Hebreos. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 1</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 1</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="1-r"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e150">
+        <head xml:id="gh7uyz-d1e150-Hd1e120">Pars 1</head>
+        <p xml:id="gh7uyz-d1e150-d1e122">Quantum ad primam partem scilicet de consideratione auctoris debemus scire quod est deus
+          infinite potentie quam ostendit mirabiliter in hoc sacramento dum naturam sua potentia
+          immutavit et in seipsum convertit. Est etiam deus investigabilis sapientie dum sic humiliter
+          exibuit se. Est etiam deus suavis bonitatis dum omnis actus amoris in hoc uno comprehendit,
+          nos sibi incorporando. Et hoc decens fuit fieri ante suam passionem ut nos in ipsum conversi
+          et cum eo unus spiritus effecti ad passionem suam antevadamus et patiamur et moriamur cum
+          illo ; et ipse pro nobis solvit redemptionis pretium ut nos postea secum surgentes que
+          sursum sunt semper queramus et non que super terram. Consideremus ergo hic bonitatem omni
+          suavitate plenissima in isto sacramento in quo se fecit nostrum sacerdotem et hostiam et
+          sacrificium. 
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e124">
+          Officium sacerdotis est esse mediatorem inter deum et populum &lt;in&gt; quantum divina
+          populo tradit et preces deo offert et pro &lt;pecca&gt;tis deo aliqualiter satisfacit. Hoc
+          autem proprie convenit 
+      <cb ed="#P" n="b"/>
+      <lb ed="#P" n="1"/>
+      Christo. Nam per ipsum dona hominibus collata
+          sunt 2o Petri 2o &lt;,4&gt; <quote xml:id="gh7uyz-d1e150-Qd1e128">per quem scilicet Christum maxima et pretiosa premia nobis
+            donata sunt ut per hoc efficiamur divine consortes nature.</quote> Ipse enim humanus genus
+          deo reconciliavit Colose. 2o &lt;19-20&gt; in quam <quote xml:id="gh7uyz-d1e150-Qd1e130">complacuit omnem plenitudinem
+            inhabitare et per eum reconciliari omnia</quote>. Ipse est hostia Ephe. 2o &lt;5,2&gt;
+          <quote xml:id="gh7uyz-d1e150-Qd1e132">dilexit nos et tradidit semetipsum pro nobis</quote>
+          <quote xml:id="gh7uyz-d1e150-Qd1e134">oblationem et hostiam deo in odorem suavitatis</quote>. Ipse enim fuit pro nobis hostia
+          perfecta et plena quia hostia offerebatur propter tria  primo pro peccatis secundo ut homo
+          in statu gracie conservaretur semper deo in heredes tertio ut spiritus hominis deo perfecte
+          uniatur et totaliter absorbeatur in deum quod maxime erit in gloria. 
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e137">
+          Ista enim tria in nobis Christus efficit per suum sacerdotium offerens semetipsum pro nobis.
+          Nam per ipsum primo peccata nostra sunt deleta Ad Romanos 4o &lt;25&gt; <quote xml:id="gh7uyz-d1e150-Qd1e139" source="http://scta.info/resource/rom4_25@2-6">Traditus est
+            propter delicta nostra</quote>. Secundo per ipsum gratiam salutis accepimus Ad Hebreos 5o
+          &lt;9&gt; <quote xml:id="gh7uyz-d1e150-Qd1e142">Factus est omnibus optemperantibus sibi causa salutis eterne</quote>. Per
+          ipsum conservationem gratie et glorie adepti sumus Hebr. 4o <quote xml:id="gh7uyz-d1e150-Qd1e144" source="hebr4_1">habemus fiduciam per
+            sanguinem eius introytum sanctorum</quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e148">
+          Et ideo Christus &lt;fuit&gt; simul hostia pro peccatis et pacificorum holocaustum,
+          Augustinus &lt;<quote xml:id="gh7uyz-d1e150-Qd1e150">De civitate De</quote>
+          <quote xml:id="gh7uyz-d1e150-Qd1e152">i</quote>&gt;  <quote xml:id="gh7uyz-d1e150-Qd1e154"> Omne sacrificium
+            visibile invisibilis sacrificii est sacramentum idest sacrum signum </quote>. Et ideo
+          expositio qua Christus sic se exponit exterius in hostia est sacramentum et cum illo
+          sacramento crucifixionis in patibulo est signum illius ineffabilis sacrificationis per quam
+          spiritum suum immolavit pro nobis iugiter in templo latissimo cordis in quo templo continue
+          se ipsum obtulit ab instanti conceptionis sue usque ad oram mortis.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e158">
+          Et ideo tota vita sua fuit una sollempnis missa qua ipse benedictus Yesus est templum et
+          altare et sacerdos et hostia deus acceptans sacrificium et ipse idem offerens semetipsum et
+          ipse idem convertens nos peccatores in seipsum. Qui fecit prius nos per immensos dolores et
+          fatigationes purgans et mundans et faciens nos sibi populum acceptabilem et per unitivos
+          amores convertit nos in seipsum. Dolorem autem immensum ostendit quando factus in agonia
+          totus sudavit sudore sanguineo. Licet autem mens Christi fuerit in continuo apice sumitatis
+          virtutum omnium et mutatio et varietas virtutum mentem eius nunquam incurvaverit et suum
+          vivere fuerit continuum orare in summo et continua agonia victorie regni mortis conveniens
+          tamen fuit quod id quod latuit intra sue perfectionis secretum ab utero matris sue ipse
+          signis sensibilibus suis fidelibus revelaret quia maxime imminente mortis tempore decens fuit
+          ; et sicut ille sudor sanguineus est signum omnem humanam superans rationem ita agonia
+          dolorum cordis Yesu que in illo figurabatur sudore comprehensione omnis superatur creature.
+          O quali ardore erat incensa fornax cordis Yesu que sic carnem suam tota in sudore
+          <pb ed="#P" n="1-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          liquabat pro nobis !
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e167">
+          Attende quia rationabile fuit quod sic dolorem sue mortis ostenderet ut in omnibus membris
+          sudaret sanguinem quia anima est in qualibet parte corporis tota et est ipsius corporis
+          vita. Idcirco ad ostendendum immensitatem sui doloris quo tota passa fuit debuit dolorem suum
+          figurare in omnibus membris. Et illud signum doloris fuit representativum non solum dolorum
+          illorum quos in presenti agonia sustinuit sed etiam illorum quos ab istanti sue conceptionis
+          sustinere volebat in cruce.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e169">
+          Et si istos dolores aliqualiter comprehendere cupis recogita ipsum capud nostrum qui venit
+          ad nos ut redemptor et emendator omnis mali quod inflictum fuerat per peccatum. Et ideo
+          accepit omnia lamentanda et deploranda ut sua non ad commectendum quia peccatum non fecit,
+          sed ad solvendum et satisfaciendum perfecte ita quod ipse omnium personam induens pro omnibus
+          satisfecit. Et ideo iste est ille magnus peccator penitentiatus pro omnibus et in omnibus pro
+          cuius penitentia gaudium est in celo plus quam super omnibus ordinibus angelorum qui digna
+          penitudine non egent. Et quia naturalis est filius patris tantum agravavit istam iniuriam
+          quantum ipsum dilexit. Et in quantum istas iniurias ad satisfaciendum accepit tantum dolorem
+          assumpsit pro qualibet singulari iniuria omnis peccati quantum erat gravitas iniurie et
+          requirebat emenda. Et si unius iniurie tanta est gravitas quanta est simul omnium ad
+          quamlibet enim suus dolor respectum habuit singularem. Secure dicas quod sufficientem dolorem
+          non posset pura creatura capere sed inextimabiliter capacitas illius anime ex unione
+          personali ad deum ampliata et huiusmodi et alia capere potuit in tantu excesu quod nulla
+          creatura beata vel misera quantum credis comprehendere potuit in eternum.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e171">
+          Et quia venit ut mediator per ineffabiles dolores unitivos utriusque sparati deum iratum et
+          mentem rebellem pacificando coniunxit. Et tantum laborem fecimus ipsum in peccatis nostris
+          sustinere quod flecxit rigorem iustitie et elevavit nostre gravisimum pondus culpe ut in
+          uno<sup> </sup>summis pacis osculo convenirent.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e176">
+          Et quia venit ut sponsus diligens sponsarum decorem in doloribus se totum relinquerat et
+          totum se per cineres malitiarum nostrarum infudit ut faceret de se lavacrum ut posset lavare
+          totam maculam. Et istum dolorem quem habebat illa dilecta anima in orrore aspectus macularum
+          nostrarum quis enarrare sufficit ? Nempe ipse est zelotissimus sponsus qui quantum amaverit
+          animas ostendit in morte.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e178">
+          Et quia venit ut reparator et reparatio regni gratie non est 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          nisi per
+          deletionem culpe que non habet deleri nisi per dolores correspondentes offense et sicut
+          indignis ex culpa non est domabilis gratia ideo et isto respectu fortissimum habuit dolorem,
+          ut per ineffabilia supplicia et immolationes sui acquireret gratiam sic indignis.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e186">
+          Et quia venit ut salvator omnium delictorum nostrorum et liberator a penis inferni ideo ut
+          nos de hiis liberaret habuit pro quolibet peccato mortali dolorem divine iustitie exsolvere,
+          correspondentem cuilibet particulari pene inferni. Hoc enim requirebat divine iustitie
+          inflexibilis rectitudo et ipsius redemptoris in ratione sadisfaciendum integerima plenitudo,
+          ut nihil remaneret impunitum ad veram iustitiam nihil insolutum a redimentis misericordia ac
+          per hoc summe honoraretur utrumque. Ecce qualibus doloribus et quantis mundavit sibi populum
+          acceptabilem ! 
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e188">
+          Considera modo qualem amorem portavit anima illa sanctissima ad suos mundatos. Quod patet si
+          velimus ponderare septem verba illa que Christus dixit in cruce. In quorum primo notatur amor
+          mire remissionis peccatorum cum dixit <quote xml:id="gh7uyz-d1e150-Qd1e190" source="http://scta.info/resource/lc23_34">Pater
+            ignosce illis non enim sciunt quod faciunt </quote>. Ubi nota quam superfervens fuit amor
+          ipsius super impios quia non solum plene de corde pepercit sed etiam inexprexibili efficacia
+          pro ipsis advocavit. Unde nec allocutus est iudicem qui prece non flectitur sed paterno
+          nomine blandiens dixit  <quote xml:id="gh7uyz-d1e150-Qd1e193">Pater</quote> quasi nichil debebat denegari. Secundo non
+          dixit examina sed <quote xml:id="gh7uyz-d1e150-Qd1e195">Ignosce</quote> quasi dicat  etsi iustitia expetat ex actibus
+          suis misericordia tamen remictat gemitibus meis. Postea eorum ignorantiam allegavit quia
+          <quote xml:id="gh7uyz-d1e150-Qd1e197">nesciunt quod faciunt</quote> idest redemtoris anime beneficium et amorem non
+          cognoscent. 
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e200">
+          In secundo notatur amor mire largitionis donorum et hoc apparet quando benignus salvator in
+          animam dextri latronis respexit respectum miserationis et gratie ipsum specialiter vocando ad
+          sue redemptionis beneficium sicut ipsum eternaliter elegerat predestinando sua gratuita
+          bonitate nulla alia causa ex parte ipsius latronis inventa sicut nec in aliquo electo nisi
+          sola sua bonitate que reprobis occulto suo semper iusto iudicio dat quod omnibus debebatur,
+          electis autem ex solo influxu gratie boni Yesu et merito passionis eius. Et licet tota vita
+          Christi fuerit nostre redemptionis meritum tamen in sue mortis supplicio facta est electorum
+          copiosa redemptio et ideo dum thesaurus sue passionis effunderetur actu congruum fuit in
+          electum latronem habundanter tribui. Unde iste latro figuram tenuit omnium electorum qui
+          prius erant natura filii ire et post erecti Christi merito efficiuntur filii gratie. Et vere
+          salvator ipsum ditavit plene ubi dixit <quote xml:id="gh7uyz-d1e150-Qd1e202">Amen dico tibi</quote> etc. Pondera quantam
+          reddidit quia <quote xml:id="gh7uyz-d1e150-Qd1e204">paradisum</quote>. Cum quanta celeritate quia <quote xml:id="gh7uyz-d1e150-Qd1e206">hodie</quote>. Cum
+          quanta societate quia <quote xml:id="gh7uyz-d1e150-Qd1e208">mecum</quote>. Cum eterna stabilitate quia <quote xml:id="gh7uyz-d1e150-Qd1e210">eris</quote>.
+          Cum iura/menti 
+          <pb ed="#P" n="2-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          certitudine quia <quote xml:id="gh7uyz-d1e150-Qd1e219">amen</quote>. Cum alterius
+          nuntii exclusione quia <quote xml:id="gh7uyz-d1e150-Qd1e221">ego dico tibi</quote>. Cum quanta dignatione quia latroni
+          ignominioso per virtutem tamen penitentie ex infusa gratia facto digno cum dixit:
+          <quote xml:id="gh7uyz-d1e150-Qd1e223">tibi</quote>. 
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e226">
+          In tertio notatur amor mire federationis animorum quam non solum exprimit sed etiam
+          virtualiter efficit intellectus verbi tertii cum dixit :
+          <quote xml:id="gh7uyz-d1e150-Qd1e228">Mulier</quote>
+          <quote xml:id="gh7uyz-d1e150-Qd1e230">,</quote>
+          <quote xml:id="gh7uyz-d1e150-Qd1e232"> </quote>
+          <quote xml:id="gh7uyz-d1e150-Qd1e234">ecce filius tuus </quote>&lt;Jn
+          19,26&gt;<quote xml:id="gh7uyz-d1e150-Qd1e236"> </quote>etc. Ubi cum tota caterva contineatur electorum in subditis et
+          prelatis mire caritatis eos federe copulavit sub nomine matris et filii in signum omnibus,
+          ut per hoc discant prelati ad subditos se habere ut matres pie affectando et sollicite
+          procurando utilia vel si necesse fuerit ipsi exuriant ut satient viscera pupillorum et
+          ubera ad subditos portare materna non tirannica flagella. Hec autem ubera portabat illa pia
+          mater secundum Paulus quando dicebat <quote xml:id="gh7uyz-d1e150-Qd1e239">Quis infirmatur et ego non infirmor qui
+            scandalizat et ego non uror </quote>&lt;2Cor 11,29&gt;. Et concludendo  <quote xml:id="gh7uyz-d1e150-Qd1e241">Omnibus
+              omnia factus sum </quote>&lt;1Cor 9,22&gt; ista solatia ad duo reducit scilicet
+          <quote xml:id="gh7uyz-d1e150-Qd1e243">gaudere cum gaudentibus </quote>et<quote xml:id="gh7uyz-d1e150-Qd1e245"> flere cum flentibus</quote> &lt;Rm
+          12,15&gt;. Sic ergo unum nobis propriant lac gratulationis scilicet <quote xml:id="gh7uyz-d1e150-Qd1e247">gaudere cum
+            gaudentibus</quote> aliud vero peccatoribus et afflictis lac compassionis cum dicitur :
+          <quote xml:id="gh7uyz-d1e150-Qd1e249">flere cum flentibus</quote>. Unde debent prelati exprexe se in prelatione positos
+          intendere gubernationi spirituali procreande prolis et ipsorum informationi salubri. Et sciant
+          se habere filios non servos. Subditi vero sciant se habere ad prelatos filiales respectus cum
+          omni dilectione et extimatione pia tanquam de amorosis patribus.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e252">
+          In quarto notatur amor mire expositionis sui ex amore ad omne difficile. Et hoc representatur
+          cum dicitur  <quote xml:id="gh7uyz-d1e150-Qd1e254">deus meus deus meus quare dereliquisti me </quote>&lt;Ps 22,2&gt; ? Cum
+          unamet expositio sit patris et filii non videtur aliud dicere quam respectum reciproco super
+          proprium amorem converti et admirari stupende miram sui expositionem ad tam orribile genus
+          martirii et mortis cuius vere nulla potest ratio reddi quam sue inextimabilis caritatis. Et
+          quia hic stupor admirationis nulle menti est comprehensibilis ideo in isto verbo fortissime
+          clamasse refertur illum invocans dominum suum in quantum suum tam ratione suppositi quam
+          innocentie cultus veri. 
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e257">
+          In 5o notatur amor mire actractionis omnium ad se sub sitis vocabulo cum dicitur
+          <quote xml:id="gh7uyz-d1e150-Qd1e259">sitio</quote>. Sicut illud quod libenter bibitur dilitiose recipitur et subito ad
+          intima cordis attrahitur sic et ipse in ardore amorose sitis omnes electos suos delitiose
+          bibit et sibi incorporat et ad archana sue glorie introducit. Unde ipse dicebat  <quote xml:id="gh7uyz-d1e150-Qd1e261">Et
+          </quote>
+          <quote xml:id="gh7uyz-d1e150-Qd1e263">si exaltatus fuero &lt;a terra&gt; omnia traham ad me ipsum </quote>&lt;Jn
+          12,22&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e267">
+          In 6o notatur amor mire conservationis divini decreti omnium que ad salutem nostram sunt
+          utilia cum dicitur  <quote xml:id="gh7uyz-d1e150-Qd1e269">Consumatum est</quote> ubi nota quod evangelista premictit :
+          <quote xml:id="gh7uyz-d1e150-Qd1e271">S</quote>
+          <quote xml:id="gh7uyz-d1e150-Qd1e273">ciens autem Christus quod omnia consummata sunt </quote> &lt;Jn
+          19,28&gt; etc. Consumate enim fuerunt in eius passione omnes scripture et prophetie omnia
+          sacrificia omnia dei promissa omnia dei precepta. Nam omnia prophetica et promissa sunt de
+          redemptione 
+      <cb ed="#P" n="b"/>
+      <lb ed="#P" n="1"/>
+     omnia cerimonialia erant de Yesu figura maxime
+          sacrificia omnia iudicialia in eius condemnatione omnia moralia in eius dilectione et omnia
+          promissa in eius passionis fructu sunt plenissime consumata. Consumate sunt in eius corpore
+          omnes angustie omnes illusiones derisiones despectus peregrinationes lassitudines fames,
+          sites vigilie flagella sputa spine lacrime interna desideria et cum quodlibet membrum
+          suum acceperit passionis supplicium lingua non fuit immunis in amaro gustu et sic consumata
+          membra consumatus est omnis modus amoris.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e278">
+          In 7o notatur amor mire reductionis omnium in deum cum dicitur <quote xml:id="gh7uyz-d1e150-Qd1e280">pater in manus tuas
+            commendo spritum meum</quote>. Ubi debes attendere quod ille qui exivit a patre et venit in
+          mundum tanquam hamus piscatoris paterni et tanquam sagena caritatis in mari mundi a deo
+          iactata ad litus paterni reducitur creatoris plenus omnibus electis et virtutibus et meritis
+          nostre salutis. Intellectus et effectus dei hominis et omnes suos electos et eorum merita in
+          manus recommandavit patris et una secum inter paterna viscera collocavit dum expiraret in
+          morte. Unde nihil de suo extra se reliquid dum exivit de mundo.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e283">
+          Vides ergo cum quanto dolore et amore purgando et adoptando nos in filios amantissimos in
+          seipsum convertit et attendere potes quomodo tota vita sua fuit una missa tanta virtute
+          cantata ab omnibus potentiis mentis Christi ut in ipsa accipiat omne sacrificium nostrum
+          virtutem.
+        </p>
+        <p xml:id="gh7uyz-d1e150-d1e285">
+          Et quia ipse est <quote xml:id="gh7uyz-d1e150-Qd1e287">sacerdos in eternum</quote> &lt;Ps. 109,4&gt; non solum in hac vita
+          fuit noster sacerdos et advocatus sed etiam in celo <quote xml:id="gh7uyz-d1e150-Qd1e289">habemus</quote> ipsum
+          <quote xml:id="gh7uyz-d1e150-Qd1e291">advocatum apud patrem </quote>&lt;Jn 2,1&gt;. Et ideo dicit Augustinus quod sicut
+          ipse se optulit in via per ineffabiles dolores et supplicationes pro nobis sic nunc continue
+          se offert deo patri non dolore sed amore semper vivens sicut dicit apostolus &lt;Heb 7,25&gt;
+          <quote xml:id="gh7uyz-d1e150-Qd1e293">ad interpellandum</quote> pro nobis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

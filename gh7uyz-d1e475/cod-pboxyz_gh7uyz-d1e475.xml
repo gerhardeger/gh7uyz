@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 5</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 5</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="4-v"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e475">
+        <head xml:id="gh7uyz-d1e475-Hd1e120">Pars 5</head>
+        <head xml:id="gh7uyz-d1e475-Hd1e122" type="question-title">De consideratione maxime utilitatis et fructus istius sacramenti
+          circa sumentem digne</head>
+        <p xml:id="gh7uyz-d1e475-d1e125">Quinta pars de consideratione maxime utilitatis et fructus istius sacramenti circa sumentem
+          digne.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e127">
+          Ubi nota quod Christus in hoc sacramento est cibus indigne sumentem probans et reprobans,
+          cibus digne sumentem probans et approbans cibus cibatum sibi incorporans cibus post
+          cibationem integer perseverans. Non enim
+          <cb ed="#P" n="b"/> 
+          ibi cibus sensibiliter tangitur.
+          Non videtur non auditur non gustatur non odoratur a cibato non convertitur sed cibatum
+          sibi incorporat. Augustinus  <quote xml:id="gh7uyz-d1e475-Qd1e135"> Cibus sum grandium ; cresce et manducabis me non ego
+            mutabor in te sed tu mutaberis in me </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e138">
+          Est etiam cibus se ipsum consecrans et ex se ipso se ipsum cibans. Est ergo ipse bonus Yesus
+          dignissimus omni dilectione quia licet in hoc sacramento sit amaritudo propter memoriam
+          passionis est tamen ibi summa dulcedo propter experientiam divini amoris. Nichil enim dulcius
+          est quam sentire se sic amari a deo ut audiat quis se fieri posse ipsum benedictum Yesum. Hoc
+          enim ipse inteligit in illa conversione. Non enim est sibi cure panem in se convertere nisi
+          ut per hoc inteligeret christianus se debere et posse per illius infinitam virtutem in ipsum
+          per gratiam totaliter transire. Et ut per maximam utilitatem quam de isto sacramento
+          consequitur universalis ecclesia clarius attendas advertas quod Christus taliter se posuerit
+          in ipso sacramento quod illam utilitatem non solum efficit sed significat. Unde scias quod
+          Christus est in altari sacramentaliter ut supra dictum est. Hoc quod dico sacramentaliter,
+          dico quod est ibi vere quamvis ille modus essendi sit nobis inexpressibile.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e141">
+          Dixi etiam quod est ibi significative. Significat enim perfectam conversionem in se et
+          perfectam unionem membrorum ecclesie et perfectionem reconciliationis divine et perfectam
+          societatem caritatis nostre et perfectam corroborationem societatis nostre propter quod est
+          ibi sub talibus speciebus et per talem modum quod ista significet. Unde est ibi per
+          conversionem panis et vini quod significat unionem membrorum ecclesie et capitis. Panis fit
+          ex grano triticeo et cribato vinum ex acinis de vite generatis et per calorem solis maturatis
+          et in torculari fortiter pressis quia omnia significant dolorem et passionem illius qui est
+          granum frumenti quod benedicta terra virgo Maria dedit et est botrus quem gloriosa virgo
+          benedicta tanquam vitis protulit qui per calorem caritatis eterni patris sic maturus est
+          dulcedine amoris nostri ut volumptarie se exposuerit pressure supplicii dure crucis que est
+          molendinum clibanus et torcular. Et quia per mortem fecit se sacrificium reconciliationis,
+          que facta est sanguine sui corporis effuso pro nobis idcirco in hoc sacramento sanguis per se
+          consecratur in calice et corpus in hostia ut vere sensibili operatione specierum fiat
+          memoriale devotissimum mortis Christi quod sub speciebus conspicimus sanguinem ut effusum et
+          corpus ut separatum propter quod etiam in forma sanguinis ponitur verbum effusionis cum
+          dicitur  ‘qui pro vobis et pro multis effundetur’ etc. 
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e143">
+          Caritas 
+          <pb ed="#P" n="5-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          etiam nostra plene satiatur dum se tantum sentit amatam quod
+          plus non potuit nec potest dici  <quote xml:id="gh7uyz-d1e475-Qd1e151">Maiorem hac dilectionem nemo habet ut animam suam
+            quis ponat pro amicis suis </quote> &lt;Jn 15,13&gt;. Quia vero in Christo regnamur per
+          baptismum et res genita debet nutriri ideo datur nobis in cibum et potum ut nostra
+          infirmitas roboretur per panem qui cor hominis confirmat et nostra perigrinatio letificetur
+          per vinum inebriantis amoris quod letificat cor hominis. Et quia est cibus nutriens,
+          spirituale palatum delectat perditum restaurat debiles roborat et efficaciter augmentat.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e154">
+          Est etiam cibus iste medicina et armatura ideo expellit morbum protegit contra hostes,
+          confert gratiam roborat et augmentat quia passio Christi ibi representatur. Causa est
+          consecutive glorie facit enim huiusmodi refectio nos transire hinc per gratiam
+          contemplationis ad gustum glorie et post mortem ad plenum introitum. Habet etiam huiusmodi
+          sacramentum virtutem remictendi venialia peccata. Non est autem effectus huius sacramenti
+          remictere mortalia in sumentem quia non debet accedere cum mortali quia qui non vivit
+          spiritualiter non potest nutrimentum spirituale suscipere. Potest tamen hoc sacramentum
+          remissionem mortalis culpe operari duppliciter. Primo modo non perceptum actu sed desiderio,
+          sicut cum quis ex conscientia peccati abstinet ex reverentia vero et amore sacramenti appetit
+          sumere. Idem est de eo qui est in peccato mortali et facit aliquem pro se debite celebrare,
+          quia ex devotione reverentia et amore sacramenti quibus movetur contritio infunditur.
+          Secundo modo etiam perceptum ab eo qui est in peccato mortali – cuius conscientiam et
+          affectum non habet devote et reverenter accedens – sepe consequitur aut recordationem talis
+          peccati aut gratiam caritatis que contritionem perficit et peccatum expellit.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e156">
+          Pena autem peccati debita per hoc sacramentum remictitur quia non solum est sacramentum sed
+          oblatio ut remictat non solum offerentibus sed etiam eis pro quibus offertur. Licet autem in
+          hoc sacramentum contineatur totus Christus et memoretur eius passio que est sufficiens causa
+          omnis peccati et omnis pene remissiva non tamen operatur secundum plenitudinem totius sue
+          efficacie sed secundum dispositionem in sumente reparatam ideo sepe non tota pena
+          remictitur sed quantum requirit ardor caritatis recipientis. Operatur autem ad devotum
+          offerentis affectum quia quanto devotius et sanctius celebrabit maior executio gratie
+          operabitur. Est etiam predictus cibus contra temptationes non solum presentes sed et futuras,
+          quia refrigerat estum concupiscentie et roborat gratiam. Augustinus  <quote xml:id="gh7uyz-d1e475-Qd1e158"> Secure accede,
+            panis est non venenum </quote>. 
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e161">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>Ex predictis patet solutio ad questionem qua queritur an sacramentum misse celebrate a malo
+          sacerdote cum ibi conficiatur corpus Christi tantum prosit ad veniam gratiam et gloriam
+          hiis pro quibus est celebratum sicut a sancto et sanctissimo. Et quod de malo sacerdote,
+          utrum sua missa aliquando valeat alibi clarius est ostensum.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e168">
+          De missa vero sancti sacerdotis certissimum est quod tanto plus valet ad veniam gratiam et
+          gloriam quanto gratius est eius minister deo cui offertur ; et quanto devotius et sanctius
+          offert Christum suo Patri tanto magis merebit ad predicta. Unde nota quod celebratio misse
+          continet principaliter tria scilicet ministerialem actum celebrantis et ipsum Christi corpus,
+          quod ibi conficitur et sumitur et trinum et unum deum cui offertur. Sic fructus huius
+          sacramenti dependet a tribus invicem conrelatis. 
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e171">
+          Et quidem ex parte Christi oblati non potest deo maius aut equale sacrificium offerri. Sed
+          ex patre offerentis aut ad offerendum inducentis potest ibidem Christus orribiliter et
+          abhominabiliter offerri ac sancte et deo accepte ac sanctius et deo acceptius. Et sic per
+          gradum potest excrescere in magis acceptum et gratum. Unde dicit Ieronimus super Sophoniam :
+          <quote xml:id="gh7uyz-d1e475-Qd1e173"> Sacerdotes impie agunt in legem Christi putantes eucaristiam precantis idest
+            invocantis facere verba et non vitam et necessariam esse tantummodo sollempnem orationem et
+            non sacerdotis merita </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e176">
+          Item Alexander papa  <quote xml:id="gh7uyz-d1e475-Qd1e178"> Ipsi sacerdotes pro populo interpellant qui quanto digniores
+            fuerint tanto facilius exaudiuntur </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e181">
+          Item Gelasius papa  <quote xml:id="gh7uyz-d1e475-Qd1e183"> Quomodo ad divini misterii celebrationem celestis spiritus
+            invocatus adveniet si sacerdos qui adesse deprecatur plenus criminibus accusationibus
+            reprobetur </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e186">
+          Item Gregorius in Registro  <quote xml:id="gh7uyz-d1e475-Qd1e188"> Necesse est ut munda sit manus que diluere sordes curat,
+            ne tacta deterius inquinet si sordida lutum tenet. Scriptum namque est <quote xml:id="gh7uyz-d1e475-Qd1e190">Mundamini
+              qui fertis vasa domini </quote>&lt;Is 52,11&gt; </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e194">
+          Item Augustinus dicto quod reus erit <quote xml:id="gh7uyz-d1e475-Qd1e196"> qui corpus domini cum in terra cadere
+            permiserit </quote> et subdit <quote xml:id="gh7uyz-d1e475-Qd1e198"> neque illud recte potest offerri nisi per sacerdotem
+              iustum et sanctum nec nisi ab eis percipitur scilicet digne quod offertur </quote>.
+          Gratianus autem predicta capitula exponens subdit  <quote xml:id="gh7uyz-d1e475-Qd1e200"> cum vita sacerdotum eucaristie
+            esse necessaria dicitur non consecrationi sed effectui gratie intelligendum est
+          </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e203">
+          Ex predictis autem effectibus potes videre quam magna sit utilitas devote celebrantis et
+          devote communicantis quia ipsa celebratio dicitur immolatio. Tum quia exprexa est ibi immago
+          et memoria immolationis facte in cruce. Tum quia est ibi effectus ipsius immolationis,
+          scilicet nostra redemptio et peccatorum remissio et in christum crucifixum transformatio. Sed
+          quia <quote xml:id="gh7uyz-d1e475-Qd1e205">semel Christus oblatus </quote>&lt;Heb 9,28&gt; est ut dicit Apostolus ideo
+          cuilibet sacerdoti sufficit semel in die celebrare et valde felix est qui unam celebrare
+          potest digne. 
+          <pb ed="#P" n="5-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          Unde valde absurdum est quod sacerdos duabus ministret
+          ecclesiis ubi opporteat eum bis celebrare excepta die nativitatis. Sicut autem nondum
+          pluries celebraret in die sic nec debet ommicti nisi ex ardua causa quin celebretur cotidie
+          vel missa audiatur devote. Unde iste <quote xml:id="gh7uyz-d1e475-Qd1e213">panis </quote>Luce &lt;11,3&gt;
+          <quote xml:id="gh7uyz-d1e475-Qd1e216">cotidianus</quote> a salvatore vocatur quia cotidie est sumendus vel suavi gustu
+          vel devoto auditu. Ad quod Bernardus &lt;dicit&gt; quod nemo parat nisi dignus <quote xml:id="gh7uyz-d1e475-Qd1e218">
+            sacramentum enim sine re sumenti mors est </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e222">
+          Et quia ut videtur intentio Christi fuit ut celebraretur cotidie ideo quilibet christianus
+          debet ipsum sepe et devote recipere. Nam tempore apostolorum ab omnibus fidelibus cotidie
+          sumebatur. Propter quod patet abusio sacerdotum diu a celebratione cessantium. Ex ipsa enim
+          sumptione ordinis sacerdotalis facti sunt os ecclesie per cuius cibationem sacramentale et
+          salutare nutrimentum ad membra ecclesie derivetur. Unde impie privant se ipsos et alios
+          effectibus supra dictis. 
+        </p>
+        <p xml:id="gh7uyz-d1e475-d1e224">
+          Debent ergo medicinam ponere ubi malum. Malum autem est malitia sue vite quam debent
+          corrigere. Timor et resilitio in propria pravitate est optima preparatio ad celebrandum,
+          dummodo tuam vitam proponas in melius emendare. Ad hoc Ambrosius ortatur  <quote xml:id="gh7uyz-d1e475-Qd1e226"> Grave est
+            quod ad mensam domini non accedimus mundo corde et moribus sanctis sed gravius est si quod
+            metuimus si propter hoc timendo sacrificium deo non redamus </quote>. Augustinus  <quote xml:id="gh7uyz-d1e475-Qd1e228">
+              Cotidie sume quod cotidie tibi prosit </quote>. Illud autem quod dicit  <quote xml:id="gh7uyz-d1e475-Qd1e230"> Cotidie
+                eucaristiam sumere nec laudo nec vitupero </quote> etc. credo quod possit referri ad non
+          sacerdotes.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

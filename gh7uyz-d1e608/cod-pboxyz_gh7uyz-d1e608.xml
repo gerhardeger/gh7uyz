@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pars 6</title>
+        <author ref="#PeterJeanOlivi">Peter John Olivi</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#gerhardeger">Gerhard Egere</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#zacharythomas16-lgtn">Zachary Thomas</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Pars 6</title>
+          <date when="2026-09-16">September 16, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-pboxyz">Pesaro, Bibl. Oliveriana cod. 1444</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-09-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="5-v"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gh7uyz-d1e608">
+        <head xml:id="gh7uyz-d1e608-Hd1e120">Pars 6</head>
+        <p xml:id="gh7uyz-d1e608-d1e122">Sexta pars
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e124">
+          Quantum ad expositionem aliqualem eorum que sacerdos volens celebrare verbis dicit et signis
+          ostendit adverte quod quia debet habere sanctorum patrum memoriam qui precesserunt in
+          exemplaritate vite Christi in quorum memoria debet calcare affectus ne terrena tangant immo
+          debet habere pedes calciatos de pellibus animalium mortuorum. Apponit etiam amictum super
+          humeros in quo intelligitur fortitudo patientie que debet esse ad opera cruciformia. Et ideo
+          predictus amictus cum duabus vasculis ad modum crucis super pectus extenditur. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e126">
+          Postmodum induit albam que coperit totum corpus que significat plenitudinem bonorum operum.
+          Quoniam propter suam albedinem innuit quod talia opera sunt sincera propter sanctam
+          intentionem et munda propter castitatis plenitudinem quia dicit Gregorius  <quote xml:id="gh7uyz-d1e608-Qd1e128"> bonum
+            opus absque castitate est nullum </quote> predicta etiam alba nequaquam corpori iungeretur,
+          nisi cingatur diligenti et rigida custodia anime totius appetitus. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e131">
+          Postmodum additur predicto sacerdoti manipulum quasi scutum fidei quo se defendit a iaculis
+          temptationum. Postmodum stola que collo imponitur super pectus in modum crucis extenditur et
+          longum protenditur ut crucem quam 
+      <pb ed="#P" n="5-v"/>
+      <cb ed="#P" n="b"/>
+      <lb ed="#P" n="1"/>
+     portat in corde demostret exterius
+          super collum in opere; iugum scilicet quod volenti est suave et leve protendat in longum,
+          hoc est usque ad finem vite. Ultimo additur planeta que significat plenitudinem caritatis
+          &lt;cf. Rm 13,10&gt; quam debet habere ad universale ecclesiam que quia operit omnia,
+          significat quod <quote xml:id="gh7uyz-d1e608-Qd1e135">operire</quote> debet <quote xml:id="gh7uyz-d1e608-Qd1e137">multitudinem peccatorum </quote>&lt;1Pe
+          4,8&gt; quia debet habere materna viscera ex multa pietate et compassione ad peccatores
+          omnes ut eorum operiat peccata pro eis orando et plorando et immaculatam hostiam offerendo. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e141">
+          Cum autem istud sacrificium sit memoriale passionis Christi ut dictum est idcirco per
+          predicta significantur Christi ludibria ut sacerdos accedens ad altare sciat se crucifigendum
+          cum Christo ut ipse transformetur in ipsum ut sit sacerdos offerens et hostia oblata. Unde
+          ammictus velum significat quo ipse fuit velatus in derisum. Alba vestimentum significat
+          album quo sibi illusit Herodes. Cingulum manipulum stola diversa veicula significant,
+          quibus pluries fuit ligatus collum manus ad columpnam. Planeta significat clamidem coccineam
+          et vestimentum purpureum. Et sic ornatus sacerdos debet accedere ad altare. Et quia debet
+          sentire de deo altissime quia deus est bonus et iustus quod facit caritas humilitata per
+          recognitionem sui ideo incipit a confessione suorum peccatorum. Et quia timor prosternit nisi
+          caritas erigat ideo sentiat etiam de deo piissime quia dulcis est pater quod facit caritas
+          sublevata et ideo fiducialiter et absque dubitatione deputatur benignus dicens  ‘aufer a
+          nobis quesumus domine cunctas iniquitates nostras’ etc. Et sic postulat sanctorum
+          patrocinia qui sunt in celo et in altari et obsculatur altare.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e143">
+          Deinde in diebus sollempnibus assumit incensum et recogitat quod ipse est ante altare in
+          persona illius angeli de quo dicitur quia venit angelus magni consilii <quote xml:id="gh7uyz-d1e608-Qd1e145"> Christus et
+            <quote xml:id="gh7uyz-d1e608-Qd1e147">stetit ante altare </quote>&lt;Ap 8,3&gt; idest in conspectu ecclesie habens
+            turibulum aureum idest corpus immaculatum plenum igne idest caritate. Et data sunt ei
+            incensa multa a fidelibus idest orationes ut daret idest representaret &lt;eas&gt; Patri
+            de orationibus sanctorum. Non dicit omnes orationes quia non omnes exaudit </quote> sed
+          debite factas.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e151">
+          Sacerdos ipse manu sua <quote xml:id="gh7uyz-d1e608-Qd1e153"> thus apponit in turibulo quia Christus orationes inspirat
+            animo ut per ipsum offeratur dignum incensum in odorem suavitatis. Ipse nos <quote xml:id="gh7uyz-d1e608-Qd1e155">prevenit
+              in benedictione dulcedinis</quote> &lt;Ps 20,4&gt; ut eius donum sit nostrum meritum,
+            quia non accipit nisi quod tribuit </quote>. Sacerdos ergo plus inteligat communem se esse
+          personam et sentiat que ipse sumit. Post hoc accedit ad librum ubi nota quod duo sunt
+          attendenda in tota sacra missa 
+          <pb ed="#P" n="6-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          videlicet verba que proferuntur que
+          debent proferri cum multa diligentia et gestus et actus sacerdotis qui debent exterius
+          integre fieri et interius plene recogitari ea que per illos significantur. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e165">
+          Circa totum officium misse attende quia missa potest dividi in preparationem oblationem,
+          consecrationem sumptionem et gratiarum actionem. Preparatio durat usque ad offertorium,
+          oblatio usque ad consecrationem consecratio usque ad pater noster sumptio usque post
+          communionem gratiarum actio usque ad finem. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e167">
+          Preparatio ergo affectus per dei laudes  Psalmus <quote xml:id="gh7uyz-d1e608-Qd1e169">Sacrificium laudis honorificabit me
+          </quote>&lt;Ps 49,23&gt; quod fit in introitum misse qui significat Christi adventum de quo
+          devote redimus sibi laudes. Psalmus qui additur significat desiderium patrum et non semper ex
+          intellectu littere priorum sed iubilo cantilene. In introitum aliquando interponitur,
+          aliquando additur ‘alleluia’ quia soli nos possumus canticum illius letitie de Christi
+          cognitione et possessione cantare illi vero non quia et desiderium habuerunt non tamen
+          pervenerunt ad effectum quia <quote xml:id="gh7uyz-d1e608-Qd1e171">multi prophete et reges voluerunt videre que vos videtis
+            et non viderunt </quote>&lt;Lc 10,24&gt;. Et ideo in illo versiculo sequenti introitum
+          nunquam additur <quote xml:id="gh7uyz-d1e608-Qd1e173">alleluia.</quote> Quia vero de promissione illi facta et de possessione
+          nobis donata debetur gloria deo ideo communiter dicitur  ‘Gloria patri’ etc. Repetitio vero
+          introitus expressionem maioris affectus significat.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e176">
+          Secundo preparatur affectus per sue miserie gemitum dum petitur gratia dicendo ‘Kyrie
+          heleyson’ ter pro persona patris et ‘Christe eleyson’ ter pro persona filii et ‘Kirie
+          heleyson’ ter pro persona spiritus sancti. Contra triplicem miseriam scilicet ignorantie,
+          culpe et pene et ne magnitudo miserie nostre gemituum nos nimis prosternat interponitur
+          memoria celestis glorie et pacis inter nos et deum facte in quibus et desiderium accenditur
+          et spes erigitur cum dicitur  ‘Gloria in excelsis deo’ etc. Fuit enim pax annuntiata inter
+          deum et homines inter angelos et homines inter homines et homines. Ipse enim est <quote xml:id="gh7uyz-d1e608-Qd1e178"> pax
+            nostra qui fecit utraque unum qui destruxit inimicitiarum maceries et concurrentes
+            parientes in se angulari lapide copulavit ut de cetero esset <quote xml:id="gh7uyz-d1e608-Qd1e180">unum ovile et unus
+              pastor </quote>&lt;Jn 10,4&gt; </quote>. Cum ergo animus audit deum sibi tam pacifico
+          inclinatum amore statim erigit spem ad secure petendum. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e185">
+          Et ideo tertio subiungitur preparatio affectus per orationis suspirium quam sacerdos facit
+          pro se et pro toto populo. In festis dupplicibus una tantum oratio dicitur ; in aliis missis,
+          tres nisi plures commemorationes fiende acciderent. In missis vero privatis non debet
+          numerus quaternarius vel settenarius superari. Et concurrit in predictis ordo conveniens ut
+          prius agantur deo gratie et hoc in introytu secundo fit contritio in corde ut in Kyrieleyson,
+          tertio fiunt devote petitiones ut in orationibus quia iste ordo fuit revelatus ab angelo
+          cuidam sancto sicut refert Iohannes Climacus. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e187">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          Sacerdos ergo oraturus primo exilaratus ex predicta spe vertit se ad populum salutans,
+          dicendo  ‘dominus vobiscum’. Christus enim post ressurectionem per modum salutationis pacem
+          discipulis nuntiavit dicens  ‘pax vobis’. Unde episcopus qui eius personam tenet,
+          premittendo hanc salutatione sub eisdem verbis illam nuntiat dicendo ‘pax vobis’. Sed minor
+          sacerdos dicit  ‘dominus vobiscum’ quia utique verbum Booz legitur dixisse messoribus qui
+          personam Christi tenet in eo quod Ruth moabitem duxit uxorem. Corus vero respondit  ‘et cum
+          spiritu tuo’ quia verbum dixit Apostolus ad Thimotem :
+          <quote xml:id="gh7uyz-d1e608-Qd1e193">dominus</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e195">,</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e197"> </quote>inquid <quote xml:id="gh7uyz-d1e608-Qd1e200">Yesus cum spiritu tuo
+          </quote>&lt;2 Ti 4,22&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e203">
+          Salutatione vero premissa qua auditores redduntur attenti subdit orationes quas prenuntiat
+          in persona Christi cuius tipum gerit. Christus enim est sacerdos et capud totius corporis
+          mistici et verus homo propter nos passioni destinatus cuius est vox illa :
+          <quote xml:id="gh7uyz-d1e608-Qd1e205">holocaustum et sacrificium pro peccato non postulasti tunc dixi ecce </quote>venio
+          &lt;Ps 39,7-8&gt; quia secundum Apostolum in diebus carnis sue preces supplicationesque ad
+          deum qui salvum illum facere possit a morte cum clamore valido et lacrimis offerens,
+          exauditus est pro sua reverentia. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e208">
+          Quia autem post finem orationis dicit ‘per dominum’<quote xml:id="gh7uyz-d1e608-Qd1e210"> </quote>etc. illud significat,
+          quod ipse dixit in evangelio <quote xml:id="gh7uyz-d1e608-Qd1e212">quicquid petieritis in nomine meo</quote> etc. &lt;Jn
+          14,13&gt; Non enim per alium ad nos eterna beneficia possunt discurrere quam per eum qui est
+          mediator dei et hominum.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e215">
+          Illud autem <quote xml:id="gh7uyz-d1e608-Qd1e217"> quod sequitur ‘qui tecum’ debet inteligi sic qui cum patrem ‘vivit et
+            regnat in unitate Spiritus sancti’ idest una cum Spiritu sancto. Nam Pater et Filius et
+            Spiritus sanctus sunt unus deus. ‘Per omnia secula seculorum’ potest inteligi consecutive,
+            sicut generationes et generationum vel sicut cantica canticorum anthonomasice. ‘Amen’,
+            affirmantis ostendit affectum </quote>.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e220">
+          Post preparationem affectum et per precedentia iam in amorem Christi formatum et introductum,
+          quia tali amore meretur inteligere amans et cognoscere deum quem amat ut magis ac magis amet,
+          ideo sequitur epistola que habet instruere intellectum per doctrinam prophetarum et
+          apostolorum quia quod illi predixerunt isti ostenderunt. Epistola autem significat
+          predicationem Iohannis que precessit evangelium et minor fuit evangelio. Paucis enim fuit
+          facta predicatio Iohannis et modico tempore respectu longe et dilatate predicationis
+          apostolorum. Et quia Iohannes fuit finis legis quia <quote xml:id="gh7uyz-d1e608-Qd1e222">lex et prophete usque ad
+            Iohannem</quote> &lt;Mt 11,13&gt; et fuit initium evangelii ideo in sua predicatione
+          partim tenuit formam prophetarum qui predixerunt futura et hoc cum dixit  <quote xml:id="gh7uyz-d1e608-Qd1e224">qui post me
+            venit</quote> etc. &lt;Jn 1,30&gt; partim eorum qui predicaverunt de presenti et hoc
+          digito demonstrando  <quote xml:id="gh7uyz-d1e608-Qd1e226">ecce agnus dei </quote>etc. &lt;Jn 1,29&gt;. Ideo epistola que
+          significat predicationem Iohannis aliquando de veteri aliquando de novo testamento
+          pronuntiatur.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e230">
+          Sessio vero sacerdotis dum epistola legitur significat quod Christus quamdiu Iohannes
+          predicaverit latebat. Quia non tam aperte predicabat sicut post sicut dicit evangelista:
+          <quote xml:id="gh7uyz-d1e608-Qd1e232">postquam traditus est Iohannes venit Yesus in Galileam predicans evangelium
+            regni</quote> &lt;Mr 1,14&gt;. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e235">
+          Interim dum epistola cantatur diaconus corporalem extendit in longum alia vero explicatio
+          
+          <pb ed="#P" n="6-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          hoc est in latum reservatur fienda post decantationem evangelii. Ubi
+          nota quod quia per corporale significantur <quote xml:id="gh7uyz-d1e608-Qd1e243"> linteamina quibus involutum fuit corpus
+            Christi in sepulcro et per partem illam que plicata ponitur super calicem significatur
+            sudarium quod fuerat super capud eius separatim involutum in unum locum </quote> ideo in
+          istorum explicatione significatur explicatio et revelatio et predicatio ressurectionis et
+          fidei Christi. Primo fuit initiata inter iudeos sed quia non ad plenum fuit recepta ab eis,
+          ideo ante evangelium hoc est ante sollempnem predicationem predicte fidei in gentibus,
+          corporale predictum ad modum explicatur quod linteamina. Quia fuerit de lino et non de
+          serico ideo preceptum est ut corporalia sint de lino et non de serico aut alio panno. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e246">
+          Post lecta epistola accedit subdiaconus ad osculandum manus sacerdotis sive pontificis,
+          significans quod finita predicatione Iohannis dum esset in vinculis misit discipulos ad
+          Christum quasi lex ad evangelia. Et hinc est quod in principio epistole subdiaconus non petit
+          benedictionem sed post quia lex et prophete non a Christo visibiliter inceperunt sed usque
+          ad Christum visibiliter venerunt. Diaconus autem benedictionem petit a sacerdote in principio
+          et non in fine quia apostoli a Christo fuerunt visibiliter missi unde ab ipso habuerunt et
+          inceperunt predicationem suam.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e248">
+          Post epistolam sequitur graduale significans lamentum penitentie et luctum. Unde in diebus
+          pentecostes tollitur de officio quia dies illi futurum in regno dei ecclesie statum felicem
+          significant. Unde graduale dicitur quod ad gradum humilitatis consistens non dum venerit ad
+          verticem ple&lt;nitudinis virtutum&gt;. Quod enim sollempniter stat ante gradus significat
+          penitentiam quam predicavit Iohannes et ad quam disponebat suus baptismus quam etiam Christus
+          predicavit in initio sui evangelii. Potest etiam dici quod post epistolam graduale cantatur,
+          quia post predicationes Iohannis discipuli secuti sunt Christum ut referatur graduale ad
+          vocationem apostolorum qui post Christum gradiebantur. Unde graduale quoad statum penitentie
+          significare potest imperfectionem apostolorum quam habuerunt quousque devenerunt ad veram
+          cognitionem ressurectionis in qua perfecte cantaverunt alleluia quod statim cantatur post
+          graduale.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e250">
+          Potest etiam graduale referri ad totum decursum doctrine Christi et vite in qua nunquam fuit
+          Christus plene clarificatus et laudatus quoadusque adventum Spiritus sancti. Et tunc per
+          spiritum sanctum fuit plene clarificatus et cognitus. Et tunc sui apostoli plene cantaverunt
+          alleluia quod interpretatur ‘laudate deum’ ; et hoc ipse Christus dixit  <quote xml:id="gh7uyz-d1e608-Qd1e252">ipse me
+            clarificabit quia de meo accipiet et annuntiabit vobis </quote>&lt;Jn 16,14&gt;. Et tunc
+          graduale significat gradus per quos Christus gradiebatur paulatim introducens apostolos suos
+          per suam sapientiam et doctrinam quasi de gradu in gradum usque 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          ad
+          perfectam sui cognitionem.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e259">
+          Nota etiam quod omnia que fiunt ad dexteram altaris hoc est ad austrum significant ea que
+          facta sunt in populo iudeorum et ea que fiunt in sinistra altaris apud aquilonem ea que
+          facta sunt in populo nationum. Ea vero que fiunt in medio significant ea que facta sunt in
+          universali a Ihesu Christo in toto mundo hebreis scilicet grecis et latinis. Et ideo
+          ‘alleluia’ que cantatur antequam sacerdos ad sinistram altaris veniat significat illud
+          magnum alleluia quod inter iudeos prius fuit celebratum quando venirent ad gentes. Unde
+          indicibilis letitia que signatur per alleluia fuit initiata in ressurectione. Inexprexibile
+          etiam gaudium adventus sancti spiritus fuit donatum apostolis dum essent ibi. Sed quia ipsi
+          iudei predicationem hanc non receperunt transgressi sunt ad gentes apostoli quod signatur
+          per accessum diaconi et ministrorum ad sinistram partem altaris ut ibi cantetur evangelium.
+          Diaconus vero accepta benedictione quam ideo accipit ut detur inteligi quod apostoli fuerunt
+          missi a Christo ut supra dictum est tollit librum evangelii de dextro cornu altaris quia
+          <quote xml:id="gh7uyz-d1e608-Qd1e261">de Syon exibit lex et verbum domini de Ierusalem</quote> &lt;Is 2,3&gt; et vadit cum
+          silentio ad pronuntiandum evangelium iuxta illud <quote xml:id="gh7uyz-d1e608-Qd1e263">Neminem salutaveritis per
+            viam</quote> &lt;Lc 10,4&gt; hoc est nulli felicitatem veram doceatis haberi posse dum est
+          in hac vita. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e267">
+          Precedunt ante eum luminaria et incensum quia predicationem evangelii debent precedere opera
+          lucida iuxta illud <quote xml:id="gh7uyz-d1e608-Qd1e269">Luceant opera vestra coram hominibus </quote>etc. &lt;Mt 5,16&gt;,
+          et alibi <quote xml:id="gh7uyz-d1e608-Qd1e271">Vos </quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e273">estis lux mundi</quote> &lt;Mt 5,14&gt; quod refertur non
+          solum ad doctrinam veritatis sed ad exempla operis. Debet etiam ipsum precedere bona fama,
+          quod significat precedens odor incensi. Quia vero diaconus qui cantat evangelium habet
+          turibulum post se significat quod dum predicat non debet habere aspectum ad famam vel
+          temporalia sed ad animarum salutem et Christi laudem ex quibus relinquitur bona fama in
+          cordibus hominum audientium quantumcumque non sit in intentione predicantium. Vertitur faciem
+          suam ad aquilonem quod significat frigiditatem peccatorum ; Christus enim non venit vocare
+          iustos sed peccatores ad penitentiam. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e276">
+          Postea premittit salutationes ad excitandum populum observans quod Christus iusserat :
+          <quote xml:id="gh7uyz-d1e608-Qd1e278">in quamcumque domum intraveritis</quote> etc. &lt;Lc 9,4&gt;. Stans vero populus
+          quasi paratus ad obsequendum per opus quod ille dixerit respondet  ‘Et cum spiritu tuo’.
+          Sequitur sequentia sancti evangelii cui populus cum reverentia seu causa reverentie et
+          honoris respondet  ‘salva tibi domine’ glorificans deum quod miserit eis verbum salutis,
+          sicut dicitur in Actibus  <quote xml:id="gh7uyz-d1e608-Qd1e280">glorificantes deum dicentes ergo et gentibus deus
+            penitentiam dedit ad vitam </quote>&lt;Ac 11,18&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e283">
+          Et dum incipit evangelium facit digito signum crucis in libro in fronte in ore in
+          pectore ad designandum quod predicatio crucis debet esse in pectore per amorem et fidem in
+          ore per publicam confessionem in fronte per manifestam ostensionem. Non enim
+          <pb ed="#P" n="7-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          debet erubescere evangelium sed gloriari in eo iuxta illud
+          <quote xml:id="gh7uyz-d1e608-Qd1e291">Michi autem absit gloriari</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e293"> </quote>etc. &lt;Gal 6,14&gt;. In libro
+          quia tota predicatio debet esse de misterio nostre redemptionis celebrato in cruce sed illud
+          <quote xml:id="gh7uyz-d1e608-Qd1e296">predicamus Christum crucifixum iudeis quidem scandalum gentibus autem stultitiam
+          </quote>&lt;1Cor 1,23&gt;. Sacerdos vero dum diaconus cantat evangelium non vadit ad
+          sinistram sed remanet in dextera parte altaris et lecto evangelio vadit ad obsculandum
+          librum quia Christus premisit discipulos suos ante faciem suam in omnem civitatem et locum
+          quo erat ipse venturus. Unde dicit Gregorius  <quote xml:id="gh7uyz-d1e608-Qd1e298"> Predicatores autem suos dominus
+            sequitur quia predicatio prevenit et tunc ad mentis nostre habitaculum dominus venit quia
+            verba exortationis precurrit ac per hoc veritas in mente suscipitur. Hinc namque hiisdem
+            predicatoribus Ysaias dicit  <quote xml:id="gh7uyz-d1e608-Qd1e300">Parate viam domini </quote>&lt;Is 40,3&gt;. Et
+            Psalmista  <quote xml:id="gh7uyz-d1e608-Qd1e302">Iter facite ei</quote> etc. &lt;Ps 67,5&gt; </quote>. Deosculatur vero
+          sacerdos librum quia anime que vera fide et devota humilitate predicationi adheret Christus
+          se donat cum obsculo dulcissime caritatis. Quod autem obsculatur litteram evangelii,
+          significat quod illa eadem que inspiravit et docuit hoc approbat et remunerat. Deus enim
+          nichil accipit nisi quod efficit nec remunerat nisi quod donat. Diaconus post obsculationem
+          sacerdotis deobsculatur et ipse evangelium in signum quod regeneratur Christo de hiis que
+          non a se sed ab ipso habitis predicavit.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e306">
+          Generaliter nota quod quandocumque minister aliquid accipit de manu pontificis vel
+          sacerdotis aut donat debet obsculari manum eius ut ostendat quod non solum accepta a deo sed
+          etiam per nos sibi oblata in sua unde de utroque debemus sibi gratias exibere quia sicut
+          semper donat propria sic nunquam recipit aliena.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e308">
+          Post hoc sacerdos accedit ad medium altaris et ibi sollempniter incipit simbolum apostolorum,
+          et chorus sequitur illud decantando distinctos omnes articulos fidei in signum universalis
+          fidei in tota ecclesia collecta de hebreis et gentibus et ideo stat in medio. Simbolum vero
+          post evangelium dicitur quia fides ex auditu auditus autem per verbum Christi. Unde et
+          Iohannes dicit  <quote xml:id="gh7uyz-d1e608-Qd1e310">hoc eo loquente multi cred</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e312">id</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e314">erunt in
+            eum </quote>&lt;Jn 7,31&gt;. Cantatur autem simbolum in omnibus sollempnibus festis que in
+          ipso nominantur sive explicite sive implicite videlicet in omnibus dominicis diebus ac per
+          hoc beate virginis et sanctorum apostolorum huius fidei fundatorum et angelorum qui hanc
+          fidem suggerunt etiam sancte cruce in qua fidei nostre misterium est completum.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e317">
+          Facta preparatione sequitur offertorium quod significat devotam fidei confessionem et
+          ponitur inter evangelium et consecrationem quia inter predicationem Christi et eius
+          passionem gentilitas in aliquibus fidei votum offerens tale officium decantavit dicens :
+          <quote xml:id="gh7uyz-d1e608-Qd1e319">O </quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e321">mulier</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e323">,</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e325"> magna est fides tua
+          </quote>&lt;Mt 15,28&gt;. Mulier autem illa ecclesiam de gentibus figurabat. Patuit etiam in
+          centurione et in quibusdam aliis.      
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e329">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          Post offertorium statim sacerdos procedit ad offerendum panem et vinum in quibus debet fieri
+          consecratio. Que oblatio taliter ordinatur  Subdiaconus enim lecta epistola preparat
+          calicem cum patena et ponit vinum in calice et hostia in patena et totum cooperit tobalea
+          munda. Et hoc non facit super altare sed alibi. Et postea accipit totum reverenter et,
+          precedente cum uno accolito cum ampulla aque vadit sic coram altari et offert ea diacono et
+          diaconus sacerdoti ut detur inteligi quod lex et prophete et totum vetus testamentum non fuit
+          ad aliud ordinatum nisi ad Christum introducendum et propagandum unde offerunt Christo
+          carnem et sanguinem quia Christus deus natus est secundum carnem. Sed quia hoc non fuit in
+          eorum fide nisi ut futurum non ut presens ideo subdiaconus non offert panem et vinum
+          consecratum sed in futuro consecrandum et hoc non per se sed per Christum et apostolos suos.
+          Unde diacono et sacerdoti illa porrigit. Precedit autem illum accolitus cum aqua que
+          significat Moysem qui cum lege et per legem perduxit populum ad Christum ut ipsum uniret per
+          fidem sicut aqua unitur vino in calice.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e336">
+          Diaconus vero calicem quem sibi subdiaconus offert discoperit ut detur inteligi quod
+          apostoli ante consecrationem hoc est ante passionem predicaverunt Christum quando missi
+          fuerunt bini et bini ante faciem eius ut discoperirent et patefacerent eum predicando. Et
+          post diaconus accipit patenam cum hostia et offert eam sacerdoti deobsculando manum eius ut
+          detur inteligi quod de predicta predicatione debent gloriam deo et non sibi attribuere unde
+          et de hoc fuerunt moniti ab ipso Christo in regressu a tali predicatione cum dicerent:
+          <quote xml:id="gh7uyz-d1e608-Qd1e338">Domine etiam demonia in nomine tuo</quote> etc. &lt;Lc 10,17&gt;. Quibus respondit:
+          <quote xml:id="gh7uyz-d1e608-Qd1e340">in hoc nolite gaudere </quote>etc<quote xml:id="gh7uyz-d1e608-Qd1e342">. Gaudete autem quod nomina vestra scripta
+            sunt in celis</quote> &lt;Lc 10,20&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e345">
+          Post hoc diaconus accipit calicem de manu subdiaconi quia apostoli non predicaverunt alium
+          Christum passum quam illum quem lex et prophete predixerunt. Sacerdos vero postquam obtulit
+          hostiam accipit ampullam de manu accoliti et immiscet aquam calici quia Christus accipit
+          populum per Moysem sibi deductum et unit suo corpori mistico sua gratia et virtute. Et postea
+          diaconus accedit ad locum debitum et offert calicem. Et nota quod non aliter quam sacerdos
+          offert quia quamvis in hoc sacramentum in dupplici specie offeratur non tamen sunt duo
+          sacramenta sed unum. Sed hoc ut innuatur quanta sunt virtus Christi capitis offerentis et
+          membrorum eius hoc est sacerdotum offerentium unum eundem Christum secum. Unde &lt;non&gt;
+          duo debent dici Christus et sacerdos quia dualitas significat divisionem sed unus per
+          caritatis coniunctionem iuxta illud <quote xml:id="gh7uyz-d1e608-Qd1e347">Qui adheret deo unus spiritus efficitur cum
+            illo</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e349"> </quote>&lt;1Cor 6,17&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e352">
+          Oblatione autem facta sacerdos facit signum crucis super utrumque ad inuendum quod illa
+          parata sunt ut in eis 
+      <pb ed="#P" n="7-v"/>
+      <cb ed="#P" n="a"/>
+      <lb ed="#P" n="1"/>
+     Christi passio memoretur. Et post statim adholet
+          incensum per quod illud significatur quod Christus antequam iret ad passionem venit in
+          Bethania ubi sibi fuit facta cena. Et super capud eius fuit effusum unguentum cuius odor
+          signatur per incensum quod offertur antequam veniatur ad consecrationem in qua memoratur
+          passio.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e357">
+          Ducitur autem predictum incensum super oblata in modum crucis ter quia Maria Magdalena
+          predictam unctionem ter circa corpus Christi exibuit primo cum uncxit pedes eius secundo cum
+          effudit super capud eius tertio cum emit aromata ut ipsum ungeret in sepulcro quod etsi
+          non implevit de facto implevit volumptate que reputatur pro facto.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e359">
+          Quod autem sacerdos cum incenso ducit manum in girum signat illud quod dicitur  <quote xml:id="gh7uyz-d1e608-Qd1e361">Et
+            domus repleta est ex odore unguenti</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e363"> </quote>&lt;Jn 12,3&gt;. Quod autem
+          postea levat manus in altum et per totum altare signat illud quod ibi additur scilicet:
+          <quote xml:id="gh7uyz-d1e608-Qd1e365">Amen dico vobis quod ubicumque predicatum fuerit hoc evangelium in toto mundo
+            dicetur quod hoc fecit in memoriam eius</quote> &lt;Mt 26,13&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e369">
+          Moraliter autem per incensum signatur devotus affectus fidelium ad sacramentum predictum,
+          quia incensum signat orationem devotam ; ignis caritatem fervidam ; odor qui circumquaque
+          diffunditur signat famam diffusam. Quod autem ducitur incensum ter super oblata in modum
+          crucis significat quod devotio sacramenti et crucis et passionis Christi debet esse in effectu
+          per opera claritatis iuxta illud <quote xml:id="gh7uyz-d1e608-Qd1e371">Lucea</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e373">n</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e375">t opera
+            vestra</quote> etc. &lt;Mt 5,16&gt;. Quod autem ducit in girum etiam ter significat quod
+          intentio in predictis debet esse recta quia ad gloriam dei et salutem sui et utilitatem
+          proximi. Quod autem elevatur manus ad crucem cum incenso et postmodum per totum sinistrum
+          altarum et ultimo per totum dextrum significat quod per Christum et crucem eius hec devotio
+          prius diffusa est in gentibus et ultimo diffundetur in ebreis quando predictum sacramentum
+          devote adorabunt.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e378">
+          Postquam vero totum incensaverit diaconus suscipit turribulum ab eo deobsculando manum eius
+          et incensat ipsum quia devotionem hanc quam habemus ad deum ab eo suscipimus et sibi
+          offerimus. Post hoc sacerdos vertit se ad populum et suscipit eius oblationem ut non solum
+          precibus sacerdotis sed populi meritis hec oblatio deo reddatur accepta. Et ideo dicitur
+          offertorium propter talem oblationem et satis innuitur hic ordo conveniens ut post
+          predicationem evangelii sequatur fides in corde laus in ore fructus in opere fides in cantu
+          simboli laus in cantu offertorii fructus in oblatione populi. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e380">
+          Postquam vero sacerdos suscepit oblationem populi vadit ad lavandum extrema digitorum ut
+          intendat sacerdos quod accedens ad altare ad tale sacrificium debet etiam minutas conscientie
+          punctiones lacrimis lavare sollicite. Figurative vero predicta lotio que fit in dextera
+          altaris et tergitur in sinistra signat quod Christus appropinquans passioni in Lazari
+          suscitatione flevit ut lavaret populum a peccato quod signatur per mortem. Sed lacrime ille
+          nondum habuerunt effectum in iudeis quem postea habuerunt in gentibus ideo lacrime ille in
+          dextera funduntur quia inter iudeos et in sinistro terguntur quia in gentibus habuerunt
+          effectum. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e382">
+          Postea sacerdos inclinat se 
+      <cb ed="#P" n="b"/>
+      <lb ed="#P" n="1"/>
+     ante altare et petit ut oblatio que deo in
+          honore sanctorum offertur pro se et populo sunt accepta et ut melius fiat erigit se ad
+          populum adiutorium petens et dicens ‘Orate fratres’ etc. ut non solum per suam devotionem,
+          sed etiam per orationem populi sua oratio exaudiatur. Et statim incipit orationes quas
+          superius dimiserat quas sub silentio recitat. Et nota quod sacerdos post offertorium usque ad
+          prefationem omnia recitat sub silentio illud insinuans quod Yesus iam non palam ambulabat
+          apud iudeos cum cogitarent illum interficere <quote xml:id="gh7uyz-d1e608-Qd1e386">set habiit in regionem iuxta desertum in
+            civitatem que dicitur Effrem et ibi morabatur cum discipulis suis </quote>&lt;Jn 11,54&gt;.
+          Figurative ergo predicta inclinatio sacerdotis signat quod Iesus ad passionem accedens
+          <quote xml:id="gh7uyz-d1e608-Qd1e388">exinanivit se formam servi accipiens </quote>&lt;Ph 2,7&gt; ut nostram posset magis
+          aperte operare redemptionem.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e391">
+          Quod autem redit ad orationes intermissas signat quod Christus de predicto latibulo demum
+          rediit in Ierusalem ad domum patris sui que est dicta orationis iuxta illud  <quote xml:id="gh7uyz-d1e608-Qd1e393">Domus
+            mea</quote> etc. &lt;Mt 21,13&gt; ut ea que videbantur per predictam fugam intermisisse
+          reassumat. Sed antequam veniret Ierusalem venit Bethfage ad montem Oliveti et <quote xml:id="gh7uyz-d1e608-Qd1e395">cum
+            audisset turba quia venit Yesus Ierusalem acceperunt ramos palmarum et obviam processerunt
+            clamantes</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e397"> :</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e399"> ‘Osanna benedictus qui venit’</quote> &lt;Jn
+          12,12-13&gt; etc.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e402">
+          Ad rememorandum ergo illum honorem Christo exibitum et puerorum laudem levat iterum vocem
+          sacerdos palam et dicit prephationem in qua deo reduntur gratie et laudes ab angelis et
+          hominibus. Et quia ea que secuntur supernaturali virtute aguntur ideo monet populum ut sursum
+          habeant corda et populus respondens profitetur se monita suscepisse cum ait  ‘Habemus ad
+          dominum’. Monet autem sacerdos ut ‘gratias agamus domino deo nostro’ idest deo creatori deo
+          redemptori nostro salvatori. Creando enim dedit naturam redimendo tribuit gratiam salvando
+          confert gloriam. Chorus vero predicta approbans respondet  ‘Dignum et iustum est’. Dignum
+          quia dominus deus noster iustum quia <quote xml:id="gh7uyz-d1e608-Qd1e404">nos populus eius et oves pascue eius</quote>
+          &lt;Ps 99,3&gt;. Et iterum sacerdos  ‘Vere dignum et iustum est’. Dignum quia nos mera
+          volumptate fecisti justum quia sola volumptate redimisti equum quia gratuito iustificas
+          impium salutare quia perpetuo glorificas iustificatum. ‘Nos tibi semper et ubique gratias
+          agere’. Gratias tibi debemus quia dominus sanctus ubique quia pater operum semper quia
+          eterne deus.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e408">
+          Et hoc ‘per Christum dominum nostrum’ ; qui <quote xml:id="gh7uyz-d1e608-Qd1e410">advocatum habemus apud patrem
+          </quote>&lt;1Jn 2,1&gt; ideo per eum quasi per advocatum et mediatorem gratias et laudes
+          exibemus. ‘Per quem maiestatem tuam’ etc. Per illum enim laudant angeli et adorant trinitatem,
+          per quam facta sunt omnia. Quod autem laudent dicit Psalmista  <quote xml:id="gh7uyz-d1e608-Qd1e412">Laudate eum omnes
+            angeli eius </quote>&lt;Ps 148,2&gt;.<quote xml:id="gh7uyz-d1e608-Qd1e414"> </quote>Quod autem adoret dicit Psalmista :
+          <quote xml:id="gh7uyz-d1e608-Qd1e416">Adorate eum omnes angeli eius </quote>&lt;Ps 96,7&gt;. Et Esdras  <quote xml:id="gh7uyz-d1e608-Qd1e418">Exercitus
+            celi te adorat</quote>. Quod autem tremant dicit Iob  <quote xml:id="gh7uyz-d1e608-Qd1e421">Columpne celi contremiscunt
+              et pavent adventum eius</quote> &lt;Iob 26,11&gt;. Tremunt autem non metu formidinis cum
+          sint beati set admirationis affectu vel obedientie famulatu cum sint administratores
+          spiritus. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e424">
+          ‘Celi celorum’ etc. 
+      <pb ed="#P" n="8-r"/>
+      <cb ed="#P" n="a"/>
+      <lb ed="#P" n="1"/>
+     Dicuntur celi laudare quia laudis materia
+          prestant vel dicuntur omnes alii ordines angelorum qui non sunt hic specialiter nominati,
+          usque ad ultimum ordinem qui dicitur seraphym qui et hic additur cum dicitur ‘Et beata
+          seraphim’. Quod nomen sumitur in neutro genere cum terminatur in -n et in numero plurali ut
+          hic scilicet beata seraphim<quote xml:id="gh7uyz-d1e608-Qd1e428"> </quote>quia capitur pro toto ordine vel alibi scilicet,
+          duo seraphim <quote xml:id="gh7uyz-d1e608-Qd1e430">clamabant alter ad alterum </quote>&lt;Is 6,3&gt;. Aliquando vero sumitur
+          in masculino quando terminat in -m vel in -up vel in -af et tunc est numeri singulari ut
+          cherubim et cherup seraphim seraph et tunc capitur pro uno angelo illius ordinis.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e433">
+          ‘Socia exultatione concelebrant’ hoc est laudando adorando tremendo cum quibus deprecamur
+          suscipi iuxta nostras voces dicentes ‘supplici confessione sanctus sanctus’ etc. In quo
+          ponuntur angelice laudes et humane simul iuncte et pronunciatur ter sanctus et semel deus ad
+          comprobandum misterium trinitatis et veritatis  ‘Dominus’ quia dignus honore ‘deus’ quia
+          dignus latria ‘sabbaoth’ autem quia dignus confidentia. Sabaoth interpretatur exercituum vel
+          virtutum et ideo piissimus adiutor in omni necessitate. Ut sit plena laudis confessio,
+          additur gloria divinitatis cum dicitur <quote xml:id="gh7uyz-d1e608-Qd1e435">pleni sunt celi</quote> etc. Et beneficium
+          humanitatis cum additur  ‘Benedictus qui venit’ etc. ‘Osanna’ etc. in ebreo est interiectio
+          obsecrantis ac si diceretur  salva obsecro. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e438">
+          Completo vero ynno sacerdos resumit silentium usque ad ‘Pater noster’. Unde in tota
+          passione in qua exprimitur Christi passio loquitur silenter excepto quando recitat illam
+          orationem  ‘nobis quoque peccatoribus’ ad modicum vocem exaltat ad innuendum taciturnitatem
+          predicatorum et amicorum Christi. Quia sicut non fuit aliquis in mundo qui eum deum virgine
+          excepta esse crediderit sic non fuit aliquis qui eum iuvaret vel unicum verbum pro eo
+          proferiret excepto illo latrone qui iuvit eum cum dixit  <quote xml:id="gh7uyz-d1e608-Qd1e440">neque tu times deum</quote>
+          &lt;Lc 23,40&gt; etc. Et cognovit et credidit eum cum dixit  <quote xml:id="gh7uyz-d1e608-Qd1e442">Memento mei</quote>
+          &lt;Lc 23,42&gt;etc. Sed quia ista defensio fuit ad modicum ideo sacerdos hoc signat in
+          predicta oratione scilicet ‘Nobis quoque’ etc. in qua modicum vocem exaltat et nullo alio
+          loco sicut nullus fuit alius qui eum iuvaret. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e445">
+          Item diaconus accipit patenam de subcorporali et tradit subdiacono et cooperit mundo linteo.
+          Per patenam latam caritatem discipulorum significat. Discipuli enim in Christi passione licet
+          ipsum non crederent tamen ipsum ferventer amabant. Et quia hic incipit Christi passio que
+          initiata fuit in eius captione ideo hic premittitur discipulorum fuga et latitatio que
+          signantur in occultatione patene. Quod sive sit in manibus subdiaconi sive super altare,
+          debet latere et sic stat cooperta quamdiu durat memoria passionis. Quando vero incipit
+          ressurectio memorari tunc non debet ulterius latere. Quod fit in principio
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          ‘Pater noster’ ideo tunc illam discoperit diaconus. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e452">
+          Circa secretam nota quod verba exprimunt devotum affectum orationum circa istud sacramentum,
+          gestus vero ut sunt manuum extensio et signatio per exteriorem actum fortius menti imprimitur
+          ipsa crucifixio. Signatio vero que totiens replicatur designat illa que gradatim fuerunt
+          facta in ipsa passione usque ad ressurectionem. Sacerdos vero se inclinans cum dicit  ‘Te
+          igitur’ representat quod Christus procidit in faciem suam quando oravit in orto et etiam
+          plenum confessum Christi et prontam obedientiam quam habuit ad moriendum cum dixit :
+          <quote xml:id="gh7uyz-d1e608-Qd1e454">Non mea voluntas sed tua fiat </quote>&lt;Lc 22,42&gt;. Dicit ergo  ‘Te igitur,
+          clementissime pater nos rogamus supplices ac petimus ut habeas accepta per Christum filium
+          tuum dominum nostrum hec dona’. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e458">
+          Nota quod traditio Christi ad mortem fuit facta a tribus primo a deo secundo duppliciter a
+          Iuda et a iudeis tertio a Christo. Pro primo  <quote xml:id="gh7uyz-d1e608-Qd1e460">Proprio</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e462"> filio suo non
+            pepercit deus</quote> etc. &lt;Rm 8,32&gt;. De secundo Mathei  <quote xml:id="gh7uyz-d1e608-Qd1e464">Querebat autem
+              oportunitatem Iudas</quote> etc. &lt;Mt 26,16&gt;. De tertio scilicet a iudeis Iohannis :
+          <quote xml:id="gh7uyz-d1e608-Qd1e466">Gens tua et pontifices tui tradiderunt te michi </quote>etc. &lt;Jn 18,35&gt;. De
+          quarto Apostolus  <quote xml:id="gh7uyz-d1e608-Qd1e468">D</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e471">ilexit nos et tradidit semetipsum pro nobis
+            &lt;</quote>Eph 5,2&gt;. Prima facta est ex gratia et misericordia secunda ex avaritia,
+          tertia ex invidia quarta ex caritate. Ad designandum hoc sacerdos facit tres cruces dicens :
+          ‘Hec dona a te piissimo patre hec munera avaritia et impia puritate hec sancta sacrificia
+          illibata’<quote xml:id="gh7uyz-d1e608-Qd1e473"> </quote>a Christi dulcissima pietate seu caritate. Deus enim donavit,
+          Iudas vendidit et Christus sacrificavit.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e476">
+          Hic supple que significantur  ‘In primis que tibi offerimus’ ubi quatuor exprimuntur,
+          scilicet cui sacrificium offerimus pro quibus qualiter et quare. Primum cum dicitur  ‘Tibi
+          redunt vota sua’ ; secundum  ‘Pro ecclesia tua sancta catholica’ ; tertium  ‘Communicantes’
+          etc. ; quartum  ‘Pro redemptione animarum suarum’. Vides cui scilicet deo  pro quibus quia
+          pro tota ecclesia que hic satis distincte explicatur ; et qualiter quia in veritate fidei,
+          scilicet in communione sanctorum ; et quare quia pro beneficiis spiritualibus et
+          corporalibus. Unde dicit  ‘Que tibi offerimus’<quote xml:id="gh7uyz-d1e608-Qd1e478">,</quote> scilicet deo ; ‘Pro ecclesia
+          tua sancta quam pacificare’ scilicet per amorem in se et ad invicem quia in hoc cognoscuntur
+          tui discipuli si diligunt se ad invicem. ‘Custodire’ supple  ab insidiis et deceptionibus
+          diaboli et sequacium eius ; ‘adunare’ supple  in tanta dispersione quam patitur propter
+          verbum patientie quod servat ; ‘et regere’ scilicet quoad sanctos mores ut tibi conformiter
+          vivat. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e481">
+          ‘Memento domine famulorum famularum’<quote xml:id="gh7uyz-d1e608-Qd1e483"> </quote>etc. Ex hac iunctura verborum manifeste
+          convicitur quod hic sacerdos potest specialiter nominare quos voluerit. ‘Pro quibus tibi
+          offerimus vel qui tibi offerunt’ etc. Ex hoc patet quod non solum sacerdos sed tota ecclesia,
+          et maxime qui hic nominantur hoc sacrificium offerunt. ‘Eterno deo vivo et vero’ :
+          <pb ed="#P" n="8-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          Eterno deo ad differentiam sanctorum qui dicuntur dii iuxta illud
+          <quote xml:id="gh7uyz-d1e608-Qd1e491">Ego dixi dii estis</quote> etc. &lt;Ps 81,6&gt; qui licet sint vivi et veri non
+          tamen eterni. Vivo ad differentiam scultilium iuxta illud <quote xml:id="gh7uyz-d1e608-Qd1e494">Opera manuum hominum
+          </quote>&lt;Ps 113,12&gt;<quote xml:id="gh7uyz-d1e608-Qd1e496"> </quote>qui non sunt vivi nec eterni nec veri. Et vero ad
+          differentiam demoniorum qui dii usurpative appellantur iuxta illud <quote xml:id="gh7uyz-d1e608-Qd1e498">Omnes dii gentium
+            demonia </quote>&lt;Ps 95,5&gt; qui licet sint vivi non veri nec eterni.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e501">
+          ‘Communicantes’ etc. Hic cetus militans coniungit se et communicat ecclesie triumphanti in
+          prece cuius patrocinia petit ut dignus hoc sacrificium peragat. Et nominat hic dei
+          genitricem Mariam  tum quia principaliter prima tum quia mater et sollicita et piissima pro
+          filiis et hiis qui secum sunt membra filii sui affectuosissime deprecatur. Nominat et
+          apostolos qui ut patres pro hiis quos per doctrina et exempla lucida in Christo genuerit,
+          amorose valde sollicitantur. Nominantur etiam martires qui pro hiis quibus de Christo tam
+          arduum testimonium tradiderunt caritate fervida afficiuntur. Confessores vero hic non
+          nominantur quia nondum in ecclesia memoria eorum celebrabatur. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e503">
+          ‘Hanc igitur oblationem’<quote xml:id="gh7uyz-d1e608-Qd1e505"> </quote>etc. In hac oratione que precedit consecrationem
+          immediate signatur illa sollepmnis et nobilis oratio quam Christus fecit post illum sermonem
+          magnum qui a Iohanne recitatur in qua Christus orat fieri illa pacificam et indivisibilem
+          unionem inter se et membra sua quam ipse habet inter se et patrem. Et ideo exprimitur hic de
+          pace. Et nota quod ter oramus in missa pro pace. Primo hic scilicet  ‘Diesque nostros in tua
+          pace disponas’ etc. Secundo inferius dicitur  ‘Da propitius pacem’ etc. Tertio in fine ubi
+          dicitur  ‘Dona nobis pacem’ ut de pace temporis per penitentiam peccatorum transeamus ad
+          pacem eternitatis. Ob hoc etiam sacerdos inter secretam ter deobsculatur altare in principio,
+          in medio in fine. Et competit de memoria Christi predicte orationi quando debet confici
+          corpus Christi ut recordetur conficiens quam fortissima unione et caritativa transformatione,
+          tam in confectione quam in sumptione debeat se sentire Christum conficientem et Christum
+          sumentem. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e508">
+          ‘Quam oblationem’ etc. Nota quod a Christi oratione facta in orto usque ad illum locum ubi
+          se obtulit ad conficiendum in cruce sunt tria generaliter memoranda. Primum est immensitas
+          caritatis que fuit in corde Christi ad offerendum se pro nobis. Secundum est iniquitas
+          accusantium et examinantium. Tertium est immensitas crudelitatis que fuit in corde et opere
+          flagellantium et crucifigentium. Primum apparet in orto in tristitia et pavore tedio et
+          agonia in oratione multiplicata et prolixa et tanto fervore caritatis facta quod sudor
+          sanguineus emanaret. O quam immense ardebat illa fornax cordis Yesu ad moriendum pro nobis !
+          Secundum apparet in malitiosa 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          examinatione ut reus reputaretur in
+          calumpniosa interrogatione ut sermone caperetur in prava vestium adductione ut malefactor
+          crederetur in falsa accusatione ut dignus morte haberetur in maligna ad populum per maiores
+          suasione ut citius interficeretur in ceca et stulta populi acclamatione ut iustus
+          condempnaretur in furibunda Barabe petitione nexus liberaretur. Tertium apparet in multiplici
+          ligatione  in manibus in collo ad columpnam in multiplici percussione palmarum et
+          arundinis in faciei deturpatione per abhominationem sputorum et velationem in multiplici
+          derisione per vestium sepe factam mutationem per genuflectiones derisivas coram eo factas,
+          per verba in eius despectum prolata et per divisionem ab Herode factam et per corone
+          impositionem et per duram ad columpnam flagellationem et per ponderosam crucis
+          baiulationem.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e516">
+          Per primum hoc est per immensum Christi amorem qui est deo acceptissimus benedicimur et deo
+          pacificamur. Per secundum scilicet per iniquitatem accusantium et examinantium sumus de
+          iustissima nostra accusatione liberati et de cirografo per nos diabolo firmato et scripti
+          sumus in libro viventium. Per tertium scilicet per crudelitatem verberantium deo patri de
+          iniuria per nos facta fuit plene satisfactum ideo ineffabiliter servavit promissum ut corpori
+          Christi mistico uniremus et hoc firmum et ratum in dei veritatem existit. Dicit ergo sacerdos
+          ‘Quam oblationem tu deus’<quote xml:id="gh7uyz-d1e608-Qd1e518"> </quote>etc. ut rememoret tria predicta per tria signa que
+          facit dicens  ‘Benedictam’ scilicet supple in illo infinito cordis Christi amore ;
+          ‘ascriptam’ in illa tua iustissima predestinatione ; ‘ratam’ in illa tua ineffabili virtutis
+          promissione ; ‘rationabilem’ in nostro intellectu et opere ; ‘acceptabilem’ in tuo gratuito
+          amore. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e521">
+          Post hoc Christus venit ad crucem ubi duo rememorantur in generali. Primum est expositio sui
+          ipsius ad mortem. Ex infinito enim amore satisfaciendi pro nobis semetipsum ex immensa
+          volumptate obtulit illis crucifixoribus suis. Secundum est quanta fuerit impietas
+          crucifigentium in tam dura et dolorosa clavorum confossione. Sacerdos ergo ad ista duo
+          memoranda facit duas cruces dicens  ‘Corpus’<quote xml:id="gh7uyz-d1e608-Qd1e523">,</quote> supple  ex tam pura caritate
+          oblatum ; ‘et sanguis’ ex tam crudeli et impia dilaceratione extractus ‘fiat dilectissimi
+          filii tui’. Dilectissimus enim fuit Christus suo patri semper sed maxime in hoc opere. Et
+          nota quod quando sacerdos orat ut fiat corpus et sanguis non intendit orare ut dubitet ne
+          fiat sacramentum per prolationem forme sed orat ut fiat fructuose quia bene posset
+          sacramentum compleri sed cum dampno offerentis et populi. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e528">
+          <pb ed="#P" n="9-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          ‘Qui pridie quam pateretur’ etc. Ubi ad rememorandum quod in illa conversione panis quam
+          Christus fecit passionem rememoravit dicens  ‘quod pro vobis tradetur’. Hinc est quod
+          sacerdos facit unam crucem super hostiam quam tenet in manum. Et similiter in conversione vini
+          in sanguinem suum rememoravit passionem dicens  ‘qui pro vobis et pro multis effundetur’. Et
+          ideo sacerdos super vinum facit crucem. Et elevatio corporis Christi quam facit sacerdos,
+          designat elevationem Christi in cruce sanguis vero non tantum elevatur ad designandum quod
+          corpus remansit in alto et sanguis descendit. Unde ecclesia postquam aspicit eum sic
+          elevatum dicit  ‘Unde et memores domine’ etc. Ubi memorando Christi passionem,
+          recognoscendo infinita beneficia et cum summo affectu regratiando offert non illa que ab ipso
+          accepit cum a se nichil sibi posset offerre unde dicit  ‘Offerimus preclare maiestati tue’
+          etc. ac si diceret  ‘Non alia habemus nisi tria dona que offerimus’. Unde facit quinque
+          signa ad memorandum quinque plagas Christi quas in ipso intuetur quasi presentes et quia in
+          generali quinque utilia et necessaria ab ipsis plagis accipimus  primo peccatorum
+          purificationem et remissionem et hoc per sacramenta que ab ipsis habent effectum seu
+          efficaciam ; secundo potenter operari opera virtuosa per que efficimur sancti quod non
+          habemus ex nobis sed ab ipsis plagis hec gratuita dona ; tertio intellectum et cognitionem
+          depuratam et absque macula recipimus ut contemplari possimus et degustare in ipso mistica et
+          occulta quod non nisi ab ipsis plagis possemus ; quarto nutrimentum suscipimus quo predicta
+          conserventur in nobis et perseverantur usque in finem deducamur quod non nisi a predictis
+          plagis habemus ; quinto plenam defensionem ab omni contradictione suscipimus que in predictis
+          posset nos quomodolibet impedire et perductionem finalem in vitam eternam quod non nisi in
+          predicto sanguine nobis datur. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e530">
+          Et ideo sacerdos dum facit signa dicit  ‘Hostiam puram’ supple  ab omni peccato per tua
+          sanctissima sacramenta ; ‘hostiam sanctam’ scilicet per virtuosa opera a te data; ‘hostiam
+          immaculatam’ per depuratum intellectum ad te videndum ; ‘panem sanctum vite eterne’ quo
+          nutrimur et pascimur usque in finem ‘et calicem salutis perpetue’ quo in tribulatione
+          defendimur et salvamur et est ordo predictus. De primo purificamur a peccato ; secundo,
+          efficimur sancti per opera virtuosa in tota vita activa ; tertio acquirimus contemplativam ;
+          quarto confortamur per perseverantiam in utraque ; quinto a contrario defendimur et ad vitam
+          perducimur. Et nota quod quartum signum facit solum super corpus quod quidem nominat per
+          panem sanctum in signum quod tunc corpus erat separatum a sanguine. Quintum signum facit super
+          solum sanguinem per eandem rationem et etiam ut magis 
+      <cb ed="#P" n="b"/>
+      <lb ed="#P" n="1"/>
+     afficiatur ac
+          si recenter videret. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e535">
+          ‘Supra que propitio’ etc. Hic ecclesia orat hoc fieri accepta modo presenti quando exibentur
+          sicut demonstravit et quasi promisit se habiturum illa accepta quando in figuris ipsa
+          manifestabat. Unde munera Abel ostendit se habere accepta quia in eis significabatur Christus
+          ; qui a fratre suo interfectus est per invidiam sic Christus hic per invidiam a fratribus
+          occiditur. Ostendit etiam se habere acceptum sacrificium Habrae per quod signatur sacrificium
+          Christi quia sicut ibi pater Abraham elevavit manum suam super filium ut ipsum offeret ita
+          hic deus pater dat filium in mortem propter peccatum alterius iuxta illud <quote xml:id="gh7uyz-d1e608-Qd1e537">propter
+            scelus populi mei percussi eum</quote> &lt;Is 53,8&gt;. Ostendit etiam se habere acceptum
+          sacrificium Melchisedech in quo etiam figurabatur Christus quia ille erat <quote xml:id="gh7uyz-d1e608-Qd1e539">sacerdos
+            dei altissimi </quote>&lt;Gn 14,19&gt;<quote xml:id="gh7uyz-d1e608-Qd1e541"> </quote>et describitur sine patre et sine
+          matre ; ita et Christus fuit <quote xml:id="gh7uyz-d1e608-Qd1e543">sacerdos in eternum secundum ordinem Melchisedech
+          </quote>&lt;Ps 109,4&gt; sine matre in celis et sine patre in terris. Dicit ergo sacerdos
+          orando  ‘Respicere digneris et accepta habere sicuti accepta habere’ etc. Ostendendo enim
+          deus pater quod illa habebat accepta in quibus istud prefigurabat manifestavit et quasi
+          promisit quod illud debebat sibi esse acceptissimum. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e546">
+          ‘Supplices te rogamus’ etc. Hic ecclesia inclinat se ut fortius inclinet deum ad votum suum.
+          Rogat enim supplicanter ut sua vota deferantur per illum angelum magni consilii qui assistit
+          vultum dei pro nobis et quem <quote xml:id="gh7uyz-d1e608-Qd1e548">habemus advocatum apud patrem</quote> &lt;1Jn 2,1&gt; ;
+          et ut fortius moveat ipsum ad suas preces erigit se et obsculatur altare quasi dicat :
+          <quote xml:id="gh7uyz-d1e608-Qd1e550"> Non potes michi denegare quod peto cum in tanto amore feceris mecum pacem </quote>.
+          Dicit ergo  ‘Ut quodquot’ etc. ubi memorantur duo generaliter facta in passione scilicet
+          dura corporis extensio et confractio quas orat tam fortiter imprimi menti sue et corpus
+          confrigere et sanguinem fundere et totam crucis mortificationem in suo corpore circumferre. Et
+          ideo facit tria signa ad designandum hanc triplicem passionem in Christo videlicet corporis
+          extensionem sanguinis effusionem et electorum membrorum fortissimam compassionem. Vidit enim
+          Christus omnes penas corporales et spirituales quas sui electi ad aspectum sui sanguinis
+          animati pro eius amore portarent et ideo substinuit fortissimam penam quia fortissime illis
+          compatiebatur. Dicit ergo sacerdos signando  ‘Corpus’ supple  tam dure extensum et
+          confractum ‘et sanguinem’ sic totaliter effusum ‘sumpserimus omni benedictione celesti et
+          gratia’ etc. per que predicta crux sic in nostro corde signatur fortiter sicut predictum est.
+          Et ideo signum crucis imprimit sibi ipsi cum dicit  ‘Benedictione’. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e554">
+          ‘Memento etiam domine’ etc. Hic ecclesia coniungit precibus suis animas defunctorum qui sunt
+          in purgatorio quia se cum illis reputat unum 
+          <pb ed="#P" n="9-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          corpus. ‘Nobis quoque’
+          etc. Sicut predictum est ecclesia commemorat confessionem latronis et defensionem quam fecit
+          Christo. Et quia modica ideo sacerdos modicam vocem emittit cum dicit  ‘Nobis quoque
+          peccatoribus’. Considerat hic ecclesia quod ille latro cum esset absque meritis immo cum
+          multis peccatis mera Christi bonitate et gratia assotiatus est numero electorum et
+          quantumcumque fuerit a Christo ultimo vocatus primus tamen omnium coronatus iuxta illud :
+          <quote xml:id="gh7uyz-d1e608-Qd1e562">erunt novissimi primi</quote> etc. &lt;Mt 20,16&gt;. Ideo orat ipsa quantumcumque
+          fuerit in peccatis constituta confidens tamen de multitudine miserationum Christi habere
+          aliquam partem et sotietatem cum sanctis apostolis et martiribus sicut ille latro habuit.
+          Fuit enim primus defensor et predicator Christi passi. Fuit etiam solus sotius virginis matris
+          in sua lamentatione. Licet enim alii secum plangerent non tamen Christum secum deum credebant
+          sicut latro. Solus etiam predictus latro sotiavit Christum moriendo simili morte. Et postea
+          nominat sanctos apostolos et martires inter quorum consortium orat ammitti per illum qui non
+          est extimator meriti sed largitor venie. Non enim est extimator meriti quia remunerat ultra
+          condignum et etiam punit citra condignum. Et nota quod superius ecclesia fecit memoriam
+          sanctorum ut eorum orationibus adiuvetur hic vero ut eorum sotietati iungatur. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e565">
+          ‘Sanctificas vivificas’ ubi adverte quod Christus in cruce pendens tria generaliter egit.
+          Primum fuit orare pro peccatis nostris <quote xml:id="gh7uyz-d1e608-Qd1e567">cum clamore valido et
+            lacrimis</quote>
+          <quote xml:id="gh7uyz-d1e608-Qd1e569">,</quote> sicut dicit apostolus &lt; Heb 5,7&gt;. Secundum fuit
+          recommandare nos patri in tam unitivo amore quod nomine spiritus sui nominavit nos dicens
+          :<quote xml:id="gh7uyz-d1e608-Qd1e571"> Pater in manus tuas commendo spiritum meum </quote>&lt;Lc
+          23,46&gt;<quote xml:id="gh7uyz-d1e608-Qd1e573">.</quote> Tertium rengratiari deo patri pro omnibus nobis. Nos enim de tanto
+          beneficio rengratiari deo non possumus quia nec ad plenum inteligimus et etiam non possumus
+          sibi ad plenum compati plangere et dolere quia nec totum possumus suum dolorem inteligere,
+          et ipse utrumque complevit. Fuit etiam compassus sibi et tantum pro se ipso doluit quam
+          semetipsum dilexit. Tantum autem se ipsum dilexit quam se bonum sine malo recognovit et in
+          divino supposito radicatum se sensit. Unde et in isto respectu sibi ipsi condoluit vice omnium
+          electorum suorum sicut deo in assumpta natura pro humano generi patienti. Unde sicut in
+          aliis sic et in hoc omnium electorum supplevit defectum plenissime rengratiando et sibi
+          plenissime condolendo. Et novo respectu expositionis sui se iterum totum relinquens in
+          actione gratiarum deo et sibi ipse de tanto beneficio electis collato et vice omnium electorum
+          sibi plenissime condoluit et in seipso omnes nos fecit cognoscentes omnia predicta in quo nos
+          reputamur plene grati beneficio redemptionis et crucifixi similitudinis mortis eius. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e576">
+          Sacerdos ergo ad memorandum tria predicta facit tres cruces dicens  ‘Sanctificas’ supple :
+          per tuam sanctam orationem ‘vivificas’ per admirabilem patri recommandationem ‘benedicis’
+          per plenariam pro nobis 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          rengrationem per quam liberat nos de
+          maledictione ingratitudinis et prestat nobis ut grati reputemur in tua rengratione. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e583">
+          Adverte etiam quod Christus per tres oras stetit super crucem que figurantur per tria signa
+          sequentia in quo spatio passus est generaliter tres duras et amarissimas passiones quas
+          licet in tota vita passus fuerit hic tamen singulariter illas expressit. Prima fuit
+          inimicorum vilificatio vituperatio et despectus quod ostendit in propria blasfemie et
+          derisiones que faciem eius verecundia et confusione repleverunt que omnia tanquam agnus
+          mansuetus et tacens cum summa patientia sustinebat. Secunda fuit exterior pena sue carni
+          illata sicut fuerunt percusiones et verbera et alia innumera in cruce sibi inflicta que
+          omnia tamen patienter sustinuit ut pro crucifixoribus oraret patrem eorum dulciter ignorantia
+          allegando. Tertia fuit pena cordialis doloris que tanta fuit quanta non posset capere
+          creatura excepta sua anima que habere et capere potuit et hunc dolorem ipse volumptarie
+          assumpsit ut suo patri pro nobis satisfaceret plenarie. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e585">
+          Ad rememorandum autem has tres passiones facit sacerdos predictas tres cruces dicendo  ‘Per
+          ipsum’ tam inique derisum et blasfematum ‘et cum ipso’ in amarissimis penis tam fortiter
+          immisso ‘et in ipso’ in tam immenso dolore consumato. Post tergum facit sacerdos duas alias
+          cruces per quas signatur mors Christi que secuta est passiones predictas quia due partes sue
+          humanitatis sunt ab invicem separate scilicet corpus et anima. Divinitas autem non fuit
+          separata nec a corpore nec ab anima ideo non fiunt tres cruces sed solum due propter
+          divisionem duarum partium. Has etiam cruces facit sacerdos extra calicem ad signandum exitum
+          anime a corpore cum dicit  ‘Est tibi deo patri omnipotenti omnis honor et gloria’<quote xml:id="gh7uyz-d1e608-Qd1e587">,
+          </quote>quia in caritate mortis Christi est omnis gloria deo quam habet ab humana natura.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e590">
+          Completa consecratione incipit sumptio ubi includitur memoria resurrectionis. Sequitur :
+          ‘Per omnia secula seculorum’ etc que sacerdos dicit alta voce clamando cum hostia
+          aliquantulum elevando calicem et quia Christus ad modicum fuit tunc cognitus et predicatus,
+          tamen per creaturas insensibiles scilicet per obscurationem solis et lapidum cissionem et
+          veli templi quam etiam per creaturas rationabiles quia <quote xml:id="gh7uyz-d1e608-Qd1e592"> centurio et qui cum eo erant,
+            visis hiis que fiebant timuerunt valde dicentes  <quote xml:id="gh7uyz-d1e608-Qd1e594">Vere filius dei erat iste
+              &lt;</quote>Mt 27,54&gt;. Et omnis turba que aderat ad spectaculum istud percutiebant
+            pectora sua revertentes </quote>. Ad signandum ergo hanc confessionem et huiusmodi
+          testimonia data Christo sacerdos clamat et dicit cum hostia super calicem quia cum toto
+          Christo in cruce pendet. Calix enim amaritudinem et crucem signat. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e599">
+          ‘Per omnia secula seculorum’ etc. Et incipit ‘Pater noster’ in quo signatur illa talis
+          penitentia et reversio. Pectoris percussio 
+          <pb ed="#P" n="10-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+          turbarum illarum signat
+          quod in cordibus predictorum iam parabatur affectus et amor ad Christi disciplinatum qui de
+          proximo debebat multiplicari. Ideo patena que signat discipulorum amorem discoperitur in
+          manu subdiaconi sed nondum offertur sacerdoti quia nondum habebatur resurrectionis fides.
+          Post ‘Pater noster’ resumit sacerdos silentium ad designandum dominice sepulture tempus,
+          mediante sabbato quo dominus in sepulcro quievit. Mulieres qui paraverant unguenta sabbato
+          quidem siluerunt.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e608">
+          ‘Libera nos quesumus domine’ etc. Hec oratio signat orationem et fletum discipulorum quem in
+          illo intermedio habuerunt de Christi morte que ideo dicitur secrete quia in occulto degebant.
+          Sacerdos manu dextera que signat prosperitatem resurrectionis accipit patenam de manu
+          diaconi. Quia Christus sua gratia et veritate trahebat amorem discipulorum qui signatur per
+          patenam ad querendum se etsi non resuscitatum saltem mortuum ideo mulieres valde diluculo
+          veniebant ad monumentum ut ungerent eum. Discipuli etiam venerunt ad sepulcrum incitati
+          illarum sanctarum mulierum verbis. Et postea sacerdos cum patena facit sibi crucem quia
+          patena idest amor discipulorum non adhuc querebat Christum nisi ut crucifixum non autem ut
+          resuscitatum ideo ipsimet &lt;facit&gt; sibi crucem. Et ideo angelus respondit mulieribus :
+          <quote xml:id="gh7uyz-d1e608-Qd1e610">scio enim quod Yesum queritis nazarenum crucifixum</quote> &lt;Mt 28,5 ; Mc
+          16,6&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e613">
+          Postea sacerdos ponit corpus Christi super patenam ut amor qui prius querebat mortuum,
+          postmodum per fidem resurrectionis habuit vivum. Unde Christus postea mulieribus ostendit se,
+          et postea discipulis et omnes pariter crediderunt. Iterum diaconus discoperit calicem quod
+          significat ammotionem lapidis ab hostio monumenti ; statim postea recoperitur per angelum
+          facta. Et nota quod calix semper stat copertus et si aliquando discoperitur ad modicum,
+          statim postea recoperitur ad innuendum quod licet predicatio resurrectionis et redemptionis
+          in omnem terra exiverit non omnes fuerunt electi. ‘Quia multi sunt invocati’ etc. Ad
+          designandum ergo paucitatem illorum qui hunc sanguinem intellectu fideli et discoperto omnis
+          dubitationis velamine vident et amant et confitentur hunc esse sanguinem sue redemptionis,
+          discoperitur ad modicum spatium tribus vicibus ad innuendum quod hanc fidem amant in corde,
+          gerunt in &lt;ore&gt; honorant in opere.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e615">
+          Ad designandum vero multitudinem ignorantium hoc et dicentium esse sanguinem punitionis non
+          redemptionis stat coopertus per totum aliud spatium. Et hoc dicit Ysaia in persona eorum,
+          <quote xml:id="gh7uyz-d1e608-Qd1e617">Et quasi absconditus vultus est</quote>
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="1"/>
+          <quote xml:id="gh7uyz-d1e608-Qd1e623">unde nec reputamus eum. Vere langores nostros ipse tulit et dolores nostros ipse
+            portavit et nos reputavimus eum quasi leprosum et percussum a deo et humiliatum</quote>
+          etc. &lt;Is 53,3-4&gt;. Vel solum tribus vicibus discoperit ad designandum solas tres
+          apparitiones notabiles quas Christus suis paucis electis fecit. Prima fuit in carne quando
+          humilis et despectus et crucifixus apparuit. Et licet in hac &lt;apparitione&gt; viderent eum
+          electi et reprobi tamen visione amorosa et fideli soli electi viderunt. Et hec visio signatur
+          per primum discoperimentum quod fit proprie quando agitur memoria mortis scilicet quando
+          dicitur  ‘per ipsum et cum ipso’ ubi ostenditur quomodo anima separata est a corpore.
+          Secunda notabilis apparitio Christi fuit post resurrectionem et hoc designatur cum dicitur :
+          ‘Pax domini’ etc. Tertia apparitio Christi erit in iudicio que designatur per trinam
+          discopertionem que fit quando sacerdos vult sumere sanguinem et post non recoperitur
+          ulterius quia illa visio iustorum que tunc incipiet nunquam habebit finem. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e626">
+          Nota etiam quod tunc sanguis non solum videtur sed etiam sumitur. Quia iusti in illa ultima
+          apparitione non solum Christum videbunt sed sibi accipient pro sua benedictione et gloria et
+          sibi intime incorporabuntur et viventur in illa beatifica unione a qua nunquam sunt ulterius
+          separandi. Nota etiam quod calix semper discoperitur per diacones qui significant
+          evangelicos quorum est discoperire idest manifesta facere occulta scripturarum et fidei
+          Christi ; per ipsum et diaconem recoperitur quia ipsorum est indignis illa claudere iuxta
+          illud <quote xml:id="gh7uyz-d1e608-Qd1e628">Nolite sanctum dare canibus nec mictatis margaritas ante porcos</quote> &lt;Mt
+          7,6&gt;. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e631">
+          Et postea sacerdos accipit hostiam et facit de illa tres partes super calicem. Que fractio
+          figurat distinctionem corporis mistici Christi. Unde pars prima posita super patenam que est
+          sicca et dentibus territur significat corporis Christi mistici peregrinationem super terram.
+          Signanter eorum qui sicci sunt ab ubertate domus dei et passionibus conteruntur. Pars altera
+          que etiam coniungitur alteri super patenam signat corpus Christi quoad illos quorum corpora
+          adhuc remanent in sepulcris usque ad resurrectionem finalem quorum anime sunt in purgatorio
+          vel in celo. Et ista pars etiam est sicca quoad illorum corpora que non vivunt et quasi ad
+          correctionem terruntur. Pars autem illa que in manu sacerdotis remanet et vino miscetur,
+          significat corpus Christi vivum et resuscitatum et beatam virginem et omnes illos qui iam
+          habent corpora sua in celo sicut pie creditur de quibusdam. Et sacerdos tenens illas hostie
+          particulas in manu elevat vocem dicens  ‘Per omnia secula seculorum’. Et significat Christi
+          manifestationem factam discipulis per plures revelationes. 
+          <pb ed="#P" n="10-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e641">
+          Quia vero Christus in sepulcro quievit per triduum ideo sacerdos facit tres cruces cum
+          hostia antequam illam vino coniungat que coniunctio unionem anime cum corpore manifestat que
+          prius fuerat separata. Et dum facit cruces sacerdos dicit  ‘Pax domini’ etc quod verbum
+          dicebat Christus discipulis quando resuscitatus apparebat. Et respondetur ‘Et cum spiritu
+          tuo’ quod significat discipulorum fidem per quam Christo responderunt. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e643">
+          Post hoc sequitur ‘Agnus dei’ quia post plenam fidem habitam de Christi morte in qua ipse
+          fuit agnus qui tollit peccata mundi post habitam fidem resurrectionis in qua Christus
+          annuntiavit  <quote xml:id="gh7uyz-d1e608-Qd1e645">Pax vobis &lt;</quote>Lc 24,36&gt;<quote xml:id="gh7uyz-d1e608-Qd1e647">,</quote> statim ecclesia altis
+          vocibus vocat predictum agnum ut habeat hec duo predicta misericordiam scilicet de peccatis,
+          que facta fuit in cruce et pacem possideat que annuntiata fuit in resurrectione cum dicitur
+          ‘Agnus dei miserere nobis et dona nobis pacem’. Pro quo sacerdos in persona Christi statim
+          est advocatus ecclesie apud patrem et pro ea orat dicens  ‘Domine Yesu Christe’ etc. Ubi
+          petit pacem quam cupit dicens  ‘Pacificare’ in corde ‘et coadunare’ non solum interius sed
+          etiam exterius presentia corporali. Et ut hic insinuat iam factam in merito Christi,
+          deobsculatur altare et erigit se et porrigit pacem diacono et diaconus ministris et ministri
+          populo. Quia Christus dedit illam discipulis suis dicens  <quote xml:id="gh7uyz-d1e608-Qd1e649">pacem meam do vobis</quote>
+          etc. &lt;Jn 14,27&gt;. Et discipuli postmodum aliis quando dicebant  <quote xml:id="gh7uyz-d1e608-Qd1e651">pax huic
+            domui</quote> &lt;Lc 10,5&gt;. Sequentes vero orationes pertinent ad ipsum sacerdotem et
+          ideo non oportet eas explicare quia de se patent.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e654">
+          Completa communione recedit sacerdos a medio altaris et vadit ad dextrum cornu ad
+          purificandum et postquam ultimo laverit extrema digitorum aqua ibidem tergit. Diaconus vero
+          interim plicat corporale et aufert librum de sinistro cornu altaris et reportat illum ad
+          dexterum. Per hoc datur inteligi quia circa finem secundi status generalis totius mundi,
+          quando debetur compleri tempora nationum carnalis ecclesia propter infinitas feces et
+          multiplices feditates luxuriarum suarum et indicibiles iniquitates suarum simoniarum
+          cupiditatum et crudelitatum ad tantam debebat venire cecitatem et ad tot et tantas
+          deceptiones propter infinitatem suam ingratitudinem ut Christum sponsum suum totaliter
+          derelinqueret et quod plus est abhominari et persequi et sub mistico antichristo qui tunc
+          debebat regnare crucifigere omnino instar prime crucifixionis eius in electis occidendo
+          spiritum et vitam et persequendo eos personaliter et occidendo propter que omnia Christus
+          debebat eam derelinquere totaliter et solum remanere in illis electis quos ipsa persequeretur,
+          per quos debebat iterum redire ad hebreos et ad omnes alios infideles per eorum predicationem
+          reducendos ad ovile ut fiat <quote xml:id="gh7uyz-d1e608-Qd1e656">unum ovile et unus pastor</quote> &lt;Jn 10,4&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e659">
+          Ad designandum ergo Christi recessum sacerdos communione completa recedit et vadit ad
+          dextrum cornu altaris quia Christus redibit ad hebreos et lavit ibi manus et abstergit quia
+          eius lacrime que in prima lotione non habuerunt effectum ut abstergerent iudeorum peccata,
+          sed gentilium sicut supra dictum fuit nunc habebunt effectum in ebreis et ideo ibi
+          abstergit. Possunt etiam significari per predictam lotionem lacrime quas tunc corde devoto et
+          habundanti multitudine iudei effundent. Sicut enim apparet in epistola Pauli devotius et
+          fortius Christum amabunt quam fecerint nationes.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e661">
+          Diaconus vero interim plicat corporale totum et aufert librum de sinistro cornu altaris et
+          defert illum ad dextrum quia predicatores evangelici videntes Christum recessisse propter
+          multiplicata peccata et propter derelictionem fidei et adhesionem quam facient arrianis
+          heresibus et etiam aliis de novo inventis plicat corporale hoc est predicationem tacent que
+          exprimebatur in plicatione corporalis. Sicut enim corporale in tota consecratione stetit
+          expansum ita Christi predicatio fuit in tota ecclesia publicata et aperta usque ad illa
+          tempora et tunc siluit. Predicatores etiam evangelici auferunt librum de sinistro cornu
+          altaris hoc est doctrinam et vitam et deferunt ad hebreos quoniam ipsi predicatori sunt
+          evangelium Christi non solum ad hebreos sed &lt;et&gt; ad alias nationes.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e663">
+          Interim in coro cantatur post communionem quod significat iteratam predicationem
+          evangelicorum virorum tunc fiendam. Quod autem post communionem ut plurimum sumitur de
+          evangelio significat quod iterum predicabitur evangelium eternum. Simile misterium invenies
+          in officio breviarii quia in illis diebus in quibus ponitur evangelium speciale ut plurimum
+          antiphona ad Benedictum sumitur de evangelio et semper quasi de principio ipsius evangelii et
+          in secundis vesperis fit idem de antiphona ad Magnificat sed illa semper sumitur de fine
+          evangelii. Ad innuendum predictam predicationem dupplicem scilicet in mane hoc est in
+          Christi adventu et in principio ecclesie et in vesperis hoc est in fine seculi. 
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e666">
+          Post communionem sacerdos redit ad medium et vertit se ad populum et ibi dicit  ‘Dominus
+          vobiscum’ ad significandum quod licet revocaverit ebreos non tamen dimisit totaliter latinam
+          ecclesiam. Quia licet tota multitudo recesserit a Christi veritate semper tamen reservabit in
+          aliquibus semen fidei sed tamen erunt pauci et quasi occulti et per 
+          <pb ed="#P" n="11-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>istos et eorum sequaces semen fidei in ebreis &lt;et&gt; in omnibus gentibus. Potest
+          etiam significare ille reditus sacerdotis ad medium quod predicatio que signatur per ‘post
+          communionem’ non solum fiet in ebreis sed etiam in aliis gentibus.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e675">
+          Post hoc sacerdos recitat orationes in dextera parte altaris quia post illam predicationem
+          Christus iudeis amantissime et dulcissime se communicabit et donabit et ipsi pro eo dulcissime
+          martirium et tormenta sub maximo antichristo portabunt. Dictis vero orationibus sacerdos
+          iterum redit ad medium altaris et ibi terminat predictas orationes. Et post vertit se iterum
+          ad populum ad innuendum quod mortuo orribiliter Christus redibit ad medium quia
+          manifestabit et revelabit se toti mundo ut in toto orbe sit <quote xml:id="gh7uyz-d1e608-Qd1e677">unum ovile et unus
+            pastor</quote> &lt;Jn 10,4&gt;.
+        </p>
+        <p xml:id="gh7uyz-d1e608-d1e680">
+          Et adverte quod sacerdos quinquies in missa vertit se ad populum ad signandum quod Christus
+          in die resurrectionis quinquies apparuit et dulciter salutavit et ideo sacerdos semper
+          salutat populum excepto quod in tertia licet se vertat non tamen salutat sed sub silentio
+          tunc dicit  ‘Orate fratres’ etc. ad signandum illam aparitionem quam fecit Symony &lt;Lc
+          24,34&gt; quia licet scribatur quod sibi apparuerit non tamen &lt;dicitur&gt; ubi nec
+          quomodo. Ultimo vero omnibus completis et populo licentiato per ‘Ite missa est’ vertit se
+          sacerdos ad populum et benedicens facit signum crucis ad signandum quod in ultimo iudicio
+          apparebit Christus universaliter toti mundo. Apparebit etiam signum filii hominis quod est
+          discretio bonorum et malorum quia tunc discernentur oves ab hedis. Et ibunt hii scilicet
+          hedi in supplicium eternum iusti autem in vitam eternam.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
